@@ -1,0 +1,1248 @@
+﻿Nombre_jugador,posicion,seleccion,player_id,Valor_mercado,Total_Lesiones,Años_Expuesto,Tasa_Lambda,Prob_Lesion_Mundial_%,Puntuacion
+Manuel Neuer,Portero,Alemania,17259,4000000,15,22,0.682,5.52,4000000
+Oliver Baumann,Portero,Alemania,55089,2500000,11,18,0.611,4.96,2500000
+Alexander Nübel,Portero,Alemania,195778,12000000,7,11,0.636,5.16,12000000
+Antonio Rüdiger,Defensa,Alemania,86202,6000000,15,15,1.0,8.0,6000000
+Waldemar Anton,Defensa,Alemania,193004,18000000,15,11,1.364,10.74,18000000
+Jonathan Tah,Defensa,Alemania,196357,28000000,15,12,1.25,9.89,28000000
+Joshua Kimmich,Defensa,Alemania,161056,35000000,15,13,1.154,9.17,35000000
+Nico Schlotterbeck,Defensa,Alemania,388198,55000000,12,8,1.5,11.75,55000000
+Nathaniel Brown,Defensa,Alemania,691892,40000000,5,5,1.0,8.0,40000000
+David Raum,Defensa,Alemania,318204,25000000,8,10,0.8,6.45,25000000
+Malick Thiaw,Defensa,Alemania,521964,45000000,8,6,1.333,10.51,45000000
+Aleksandar Pavlović,Mediocampista,Alemania,792380,90000000,12,4,3.0,22.12,90000000
+Leon Goretzka,Mediocampista,Alemania,153084,12000000,15,13,1.154,9.17,12000000
+Jamie Leweling,Mediocampista,Alemania,518505,40000000,8,7,1.143,9.09,40000000
+Jamal Musiala,Mediocampista,Alemania,580195,100000000,15,5,3.0,22.12,100000000
+Pascal Groß,Mediocampista,Alemania,82873,2500000,6,17,0.353,2.9,2500000
+Angelo Stiller,Mediocampista,Alemania,443710,45000000,13,7,1.857,14.34,45000000
+Florian Wirtz,Mediocampista,Alemania,598577,100000000,15,5,3.0,22.12,100000000
+Leroy Sané,Mediocampista,Alemania,192565,20000000,15,12,1.25,9.89,20000000
+Nadiem Amiri,Mediocampista,Alemania,232454,17000000,15,11,1.364,10.74,17000000
+Felix Nmecha,Mediocampista,Alemania,406640,50000000,9,7,1.286,10.16,50000000
+Assan Ouédraogo,Mediocampista,Alemania,897424,28000000,11,2,5.5,36.77,28000000
+Kai Havertz,Delantero,Alemania,309400,55000000,15,9,1.667,12.97,55000000
+Nick Woltemade,Delantero,Alemania,455661,55000000,7,6,1.167,9.27,55000000
+Maximilian Beier,Delantero,Alemania,578392,40000000,8,5,1.6,12.48,40000000
+Deniz Undav,Delantero,Alemania,339314,22000000,8,11,0.727,5.88,22000000
+David Ospina,Portero,Colombia,73396,100000,15,19,0.789,6.36,100000
+Camilo Vargas,Portero,Colombia,74113,450000,1,19,0.053,0.44,450000
+Álvaro Montero,Portero,Colombia,221990,2500000,4,18,0.222,1.83,2500000
+Daniel Muñoz,Defensa,Colombia,493003,22000000,4,12,0.333,2.74,22000000
+Jhon Lucumí,Defensa,Colombia,413565,22000000,5,9,0.556,4.53,22000000
+Santiago Arias,Defensa,Colombia,120443,1200000,15,16,0.938,7.52,1200000
+Yerry Mina,Defensa,Colombia,289446,2500000,15,13,1.154,9.17,2500000
+Johan Mojica,Defensa,Colombia,262939,1500000,8,15,0.533,4.34,1500000
+Willer Ditta,Defensa,Colombia,609255,5500000,0,10,0.0,0.0,5500000
+Déiver Machado,Defensa,Colombia,332560,1800000,13,14,0.929,7.45,1800000
+Dávinson Sánchez,Defensa,Colombia,341429,16000000,11,12,0.917,7.36,16000000
+Kevin Castaño,Mediocampista,Colombia,857948,5000000,0,7,0.0,0.0,5000000
+Richard Ríos,Mediocampista,Colombia,735573,25000000,2,8,0.25,2.06,25000000
+Jorge Carrascal,Mediocampista,Colombia,354145,13000000,4,10,0.4,3.28,13000000
+James Rodríguez,Mediocampista,Colombia,88103,1500000,15,16,0.938,7.52,1500000
+Jhon Arias,Mediocampista,Colombia,588989,15000000,0,10,0.0,0.0,15000000
+Gustavo Puerta,Mediocampista,Colombia,936981,10000000,0,4,0.0,0.0,10000000
+Juan Portilla,Mediocampista,Colombia,585747,5000000,2,9,0.222,1.83,5000000
+Jefferson Lerma,Mediocampista,Colombia,262980,6000000,15,13,1.154,9.17,6000000
+Juan Fernando Quintero,Mediocampista,Colombia,122582,1800000,15,15,1.0,8.0,1800000
+Luis Díaz,Delantero,Colombia,480692,70000000,4,11,0.364,2.99,70000000
+Jhon Córdoba,Delantero,Colombia,185245,10000000,15,15,1.0,8.0,10000000
+Juan Camilo Hernández,Delantero,Colombia,459463,18000000,9,9,1.0,8.0,18000000
+Jáminton Campaz,Delantero,Colombia,491553,5500000,7,8,0.875,7.03,5500000
+Luis Suárez,Delantero,Colombia,44352,1500000,15,21,0.714,5.78,1500000
+Carlos Andrés Gómez,Delantero,Colombia,957461,11000000,3,5,0.6,4.88,11000000
+Johny Placide,Portero,Haití,51035,150000,2,20,0.1,0.83,150000
+Alexandre Pierre,Portero,Haití,838947,700000,0,7,0.0,0.0,700000
+Josué Duverger,Portero,Haití,490369,50000,0,8,0.0,0.0,50000
+Carlens Arcus,Defensa,Haití,371686,1800000,4,11,0.364,2.99,1800000
+Keeto Thermoncy,Defensa,Haití,1061046,100000,0,2,0.0,0.0,100000
+Ricardo Adé,Defensa,Haití,278145,300000,1,18,0.056,0.47,300000
+Hannes Delcroix,Defensa,Haití,338635,2000000,7,9,0.778,6.28,2000000
+Martin Expérience,Defensa,Haití,804885,350000,0,9,0.0,0.0,350000
+Markhus Lacroix,Defensa,Haití,375472,125000,0,14,0.0,0.0,125000
+Garven Metusala,Defensa,Haití,859175,200000,1,8,0.125,1.04,200000
+Jean-Kévin Duverne,Defensa,Haití,344864,2000000,4,10,0.4,3.28,2000000
+Wilguens Paugain,Defensa,Haití,609691,800000,2,6,0.333,2.74,800000
+Carl Sainté,Mediocampista,Haití,718244,125000,0,5,0.0,0.0,125000
+Jean-Ricner Bellegarde,Mediocampista,Haití,450050,16000000,7,9,0.778,6.28,16000000
+Danley Jean Jacques,Mediocampista,Haití,628834,3000000,0,8,0.0,0.0,3000000
+Dominique Simon,Mediocampista,Haití,988188,200000,4,7,0.571,4.65,200000
+Woodensky Pierre,Mediocampista,Haití,1017735,100000,0,3,0.0,0.0,100000
+Derrick Etienne,Delantero,Haití,354763,800000,5,11,0.455,3.72,800000
+Duckens Nazon,Delantero,Haití,345763,800000,4,14,0.286,2.36,800000
+Louicius Deedson,Delantero,Haití,646108,1200000,2,7,0.286,2.36,1200000
+Ruben Providence,Delantero,Haití,536520,300000,1,6,0.167,1.38,300000
+Lenny Joseph,Delantero,Haití,815359,2000000,0,7,0.0,0.0,2000000
+Wilson Isidor,Delantero,Haití,494237,18000000,4,7,0.571,4.65,18000000
+Yassin Fortune,Delantero,Haití,342878,300000,7,9,0.778,6.28,300000
+Frantzdy Pierrot,Delantero,Haití,492955,1500000,5,13,0.385,3.16,1500000
+Josué Casimir,Delantero,Haití,763182,3000000,6,6,1.0,8.0,3000000
+Roberto Junior Fernández,Portero,Paraguay,107318,100000,2,20,0.1,0.83,100000
+Orlando Gill,Portero,Paraguay,643259,6000000,0,8,0.0,0.0,6000000
+Gastón Olveira,Portero,Paraguay,301722,500000,2,15,0.133,1.1,500000
+Gustavo Velázquez,Defensa,Paraguay,389399,400000,2,17,0.118,0.98,400000
+Omar Alderete,Defensa,Paraguay,353032,13000000,8,11,0.727,5.88,13000000
+Juan José Cáceres,Defensa,Paraguay,756494,5000000,5,8,0.625,5.08,5000000
+Fabián Balbuena,Defensa,Paraguay,285548,900000,8,16,0.5,4.08,900000
+Junior Alonso,Defensa,Paraguay,273000,1500000,1,15,0.067,0.56,1500000
+José Canale,Defensa,Paraguay,402627,2200000,3,11,0.273,2.25,2200000
+Gustavo Gómez,Defensa,Paraguay,215390,3500000,4,15,0.267,2.2,3500000
+Alexandro Maidana,Defensa,Paraguay,1371519,2500000,0,2,0.0,0.0,2500000
+Diego Gómez,Mediocampista,Paraguay,996897,25000000,4,5,0.8,6.45,25000000
+Maurício Prado,Mediocampista,Paraguay,678439,15000000,5,6,0.833,6.71,15000000
+Andrés Cubas,Mediocampista,Paraguay,323872,4500000,5,12,0.417,3.42,4500000
+Damián Bobadilla,Mediocampista,Paraguay,861852,6000000,5,6,0.833,6.71,6000000
+Alejandro Romero Gamarra,Mediocampista,Paraguay,355817,4500000,1,13,0.077,0.64,4500000
+Braian Ojeda,Mediocampista,Paraguay,491596,3500000,0,7,0.0,0.0,3500000
+Matías Galarza,Mediocampista,Paraguay,909737,5500000,3,6,0.5,4.08,5500000
+Ramón Sosa,Delantero,Paraguay,745191,10000000,7,8,0.875,7.03,10000000
+Antonio Sanabria,Delantero,Paraguay,234523,1800000,15,12,1.25,9.89,1800000
+Miguel Almirón,Delantero,Paraguay,272999,7000000,14,14,1.0,8.0,7000000
+Álex Arce,Delantero,Paraguay,970518,3500000,3,13,0.231,1.91,3500000
+Julio Enciso,Delantero,Paraguay,660867,25000000,5,4,1.25,9.89,25000000
+Gabriel Ávalos,Delantero,Paraguay,358418,750000,4,17,0.235,1.94,750000
+Gustavo Caballero,Delantero,Paraguay,891672,1000000,0,6,0.0,0.0,1000000
+Isidro Pitta,Delantero,Paraguay,675178,7500000,3,8,0.375,3.08,7500000
+Nawaf Al-Aqidi,Portero,Arabia Saudita,886183,650000,1,8,0.125,1.04,650000
+Mohammed Al-Owais,Portero,Arabia Saudita,262845,275000,3,16,0.188,1.55,275000
+Ahmed Al-Kassar,Portero,Arabia Saudita,177956,175000,2,17,0.118,0.98,175000
+Ali Majrashi,Defensa,Arabia Saudita,672391,1400000,3,8,0.375,3.08,1400000
+Ali Lajami,Defensa,Arabia Saudita,264909,750000,2,12,0.167,1.38,750000
+Abdulelah Al-Amri,Defensa,Arabia Saudita,509894,1400000,4,11,0.364,2.99,1400000
+Hassan Al-Tambakti,Defensa,Arabia Saudita,509897,1800000,6,9,0.667,5.41,1800000
+Saud Abdulhamid,Defensa,Arabia Saudita,631927,9000000,0,7,0.0,0.0,9000000
+Nawaf Boushal,Defensa,Arabia Saudita,821377,1400000,0,8,0.0,0.0,1400000
+Hassan Kadesh,Defensa,Arabia Saudita,260859,275000,4,15,0.267,2.2,275000
+Moteb Al-Harbi,Defensa,Arabia Saudita,869509,1400000,4,8,0.5,4.08,1400000
+Jehad Thakri,Defensa,Arabia Saudita,901334,1200000,2,6,0.333,2.74,1200000
+Mohammed Abu Al-Shamat,Defensa,Arabia Saudita,1181852,1800000,0,5,0.0,0.0,1800000
+Nasser Al-Dawsari,Mediocampista,Arabia Saudita,509911,900000,1,9,0.111,0.92,900000
+Musab Al-Juwayr,Mediocampista,Arabia Saudita,901181,6000000,1,4,0.25,2.06,6000000
+Abdullah Al-Khaibari,Mediocampista,Arabia Saudita,437903,750000,6,11,0.545,4.44,750000
+Ziyad Al-Johani,Mediocampista,Arabia Saudita,901079,800000,1,6,0.167,1.38,800000
+Alaa Al-Hejji,Mediocampista,Arabia Saudita,443937,300000,0,12,0.0,0.0,300000
+Mohamed Kanno,Mediocampista,Arabia Saudita,308120,800000,3,13,0.231,1.91,800000
+Ayman Yahya,Delantero,Arabia Saudita,735815,1200000,4,7,0.571,4.65,1200000
+Firas Al-Buraikan,Delantero,Arabia Saudita,631922,3500000,1,8,0.125,1.04,3500000
+Salem Al-Dawsari,Delantero,Arabia Saudita,195332,1200000,15,16,0.938,7.52,1200000
+Saleh Al-Shehri,Delantero,Arabia Saudita,242267,500000,5,14,0.357,2.93,500000
+Khalid Al-Ghannam,Delantero,Arabia Saudita,631923,2500000,1,7,0.143,1.18,2500000
+Abdullah Al-Hamdan,Delantero,Arabia Saudita,68626,350000,0,8,0.0,0.0,350000
+Sultan Mandash,Delantero,Arabia Saudita,210349,350000,1,13,0.077,0.64,350000
+Kim Seung-gyu,Portero,Corea del Sur,92076,500000,5,17,0.294,2.42,500000
+Song Bum-keun,Portero,Corea del Sur,508237,1000000,2,10,0.2,1.65,1000000
+Jo Hyeon-woo,Portero,Corea del Sur,260171,650000,5,16,0.312,2.57,650000
+Lee Han-beom,Defensa,Corea del Sur,706963,3000000,3,6,0.5,4.08,3000000
+Kim Min-jae,Defensa,Corea del Sur,503482,20000000,15,11,1.364,10.74,20000000
+Kim Tae-hyeon,Defensa,Corea del Sur,645847,1200000,1,7,0.143,1.18,1200000
+Lee Tae-seok,Defensa,Corea del Sur,639027,2000000,4,5,0.8,6.45,2000000
+Cho Wi-je,Defensa,Corea del Sur,550978,550000,3,6,0.5,4.08,550000
+Kim Moon-hwan,Defensa,Corea del Sur,524592,750000,10,12,0.833,6.71,750000
+Park Jin-seop,Defensa,Corea del Sur,557469,1000000,3,12,0.25,2.06,1000000
+Seol Young-woo,Defensa,Corea del Sur,639414,6500000,1,9,0.111,0.92,6500000
+Jens Castrop,Defensa,Corea del Sur,613192,10000000,11,4,2.75,20.48,10000000
+Lee Gi-hyuk,Mediocampista,Corea del Sur,763349,800000,0,7,0.0,0.0,800000
+Hwang In-beom,Mediocampista,Corea del Sur,365394,7000000,14,11,1.273,10.07,7000000
+Paik Seung-ho,Mediocampista,Corea del Sur,282689,2000000,10,11,0.909,7.3,2000000
+Lee Jae-sung,Mediocampista,Corea del Sur,314398,2000000,12,15,0.8,6.45,2000000
+Hwang Hee-chan,Mediocampista,Corea del Sur,292246,6000000,15,12,1.25,9.89,6000000
+Bae Jun-ho,Mediocampista,Corea del Sur,912081,4000000,0,4,0.0,0.0,4000000
+Lee Kang-in,Mediocampista,Corea del Sur,557149,28000000,9,7,1.286,10.16,28000000
+Yang Hyun-jun,Mediocampista,Corea del Sur,853110,5000000,1,6,0.167,1.38,5000000
+Kim Jin-gyu,Mediocampista,Corea del Sur,365377,1200000,2,11,0.182,1.51,1200000
+Eom Ji-sung,Mediocampista,Corea del Sur,706968,1800000,7,6,1.167,9.27,1800000
+Lee Dong-gyeong,Mediocampista,Corea del Sur,558086,1600000,4,10,0.4,3.28,1600000
+Son Heung-min,Delantero,Corea del Sur,91845,15000000,15,15,1.0,8.0,15000000
+Cho Gue-sung,Delantero,Corea del Sur,652537,2500000,7,10,0.7,5.67,2500000
+Oh Hyeon-gyu,Delantero,Corea del Sur,639246,15000000,4,7,0.571,4.65,15000000
+Jordan Pickford,Portero,Inglaterra,130164,13000000,4,14,0.286,2.36,13000000
+Dean Henderson,Portero,Inglaterra,258919,28000000,6,11,0.545,4.44,28000000
+James Trafford,Portero,Inglaterra,566799,25000000,1,5,0.2,1.65,25000000
+Reece James,Defensa,Inglaterra,472423,60000000,15,8,1.875,14.47,60000000
+Nico O'Reilly,Defensa,Inglaterra,743413,70000000,2,3,0.667,5.41,70000000
+Ezri Konsa,Defensa,Inglaterra,413403,40000000,7,10,0.7,5.67,40000000
+John Stones,Defensa,Inglaterra,186590,12000000,15,14,1.071,8.54,12000000
+Marc Guéhi,Defensa,Inglaterra,392757,70000000,5,7,0.714,5.78,70000000
+Jarell Quansah,Defensa,Inglaterra,632349,45000000,2,5,0.4,3.28,45000000
+Dan Burn,Defensa,Inglaterra,134270,4000000,8,16,0.5,4.08,4000000
+Djed Spence,Defensa,Inglaterra,483348,30000000,6,7,0.857,6.89,30000000
+Trevoh Chalobah,Defensa,Inglaterra,346314,40000000,13,8,1.625,12.66,40000000
+Declan Rice,Mediocampista,Inglaterra,357662,120000000,7,9,0.778,6.28,120000000
+Jordan Henderson,Mediocampista,Inglaterra,61651,1200000,15,18,0.833,6.71,1200000
+Jude Bellingham,Mediocampista,Inglaterra,581678,130000000,8,4,2.0,15.35,130000000
+Eberechi Eze,Mediocampista,Inglaterra,479999,65000000,9,9,1.0,8.0,65000000
+Elliot Anderson,Mediocampista,Inglaterra,567576,75000000,2,5,0.4,3.28,75000000
+Morgan Rogers,Mediocampista,Inglaterra,503743,90000000,1,5,0.2,1.65,90000000
+Kobbie Mainoo,Mediocampista,Inglaterra,820374,70000000,6,3,2.0,15.35,70000000
+Bukayo Saka,Delantero,Inglaterra,433177,110000000,13,6,2.167,16.52,110000000
+Harry Kane,Delantero,Inglaterra,132098,60000000,15,14,1.071,8.54,60000000
+Ollie Watkins,Delantero,Inglaterra,324358,25000000,4,12,0.333,2.74,25000000
+Ivan Toney,Delantero,Inglaterra,251664,20000000,5,12,0.417,3.42,20000000
+Marcus Rashford,Delantero,Inglaterra,258923,40000000,15,10,1.5,11.75,40000000
+Anthony Gordon,Delantero,Inglaterra,503733,65000000,9,7,1.286,10.16,65000000
+Noni Madueke,Delantero,Inglaterra,503987,50000000,13,6,2.167,16.52,50000000
+Diogo Costa,Portero,Portugal,357153,40000000,9,8,1.125,8.95,40000000
+José Sá,Portero,Portugal,249994,3500000,7,15,0.467,3.82,3500000
+Rui Silva,Portero,Portugal,234811,7000000,3,14,0.214,1.77,7000000
+Nélson Semedo,Defensa,Portugal,231572,6000000,13,14,0.929,7.45,6000000
+Rúben Dias,Defensa,Portugal,258004,55000000,15,11,1.364,10.74,55000000
+Tomás Araújo,Defensa,Portugal,504087,30000000,5,6,0.833,6.71,30000000
+Diogo Dalot,Defensa,Portugal,357147,30000000,10,9,1.111,8.84,30000000
+Renato Veiga,Defensa,Portugal,805714,25000000,3,4,0.75,6.06,25000000
+Gonçalo Inácio,Defensa,Portugal,549006,40000000,10,6,1.667,12.97,40000000
+João Cancelo,Defensa,Portugal,182712,8000000,13,14,0.929,7.45,8000000
+Samú Costa,Defensa,Portugal,657430,15000000,3,7,0.429,3.51,15000000
+Nuno Mendes,Defensa,Portugal,616341,80000000,15,5,3.0,22.12,80000000
+Matheus Nunes,Mediocampista,Portugal,601883,50000000,6,9,0.667,5.41,50000000
+Bruno Fernandes,Mediocampista,Portugal,240306,35000000,5,13,0.385,3.16,35000000
+Bernardo Silva,Mediocampista,Portugal,241641,22000000,10,13,0.769,6.21,22000000
+João Neves,Mediocampista,Portugal,670681,140000000,5,3,1.667,12.97,140000000
+Rúben Neves,Mediocampista,Portugal,225161,25000000,6,11,0.545,4.44,25000000
+Vitinha,Mediocampista,Portugal,487469,140000000,6,8,0.75,6.06,140000000
+Cristiano Ronaldo,Delantero,Portugal,8198,10000000,15,23,0.652,5.29,10000000
+Gonçalo Ramos,Delantero,Portugal,550550,30000000,8,6,1.333,10.51,30000000
+João Félix,Delantero,Portugal,462250,28000000,15,8,1.875,14.47,28000000
+Francisco Trincão,Delantero,Portugal,412669,40000000,5,8,0.625,5.08,40000000
+Rafael Leão,Delantero,Portugal,357164,50000000,12,9,1.333,10.51,50000000
+Pedro Neto,Delantero,Portugal,487465,60000000,14,8,1.75,13.57,60000000
+Gonçalo Guedes,Delantero,Portugal,225122,6000000,8,11,0.727,5.88,6000000
+Francisco Conceição,Delantero,Portugal,487474,30000000,13,5,2.6,19.48,30000000
+Melvin Mastil,Portero,Argelia,534398,250000,3,8,0.375,3.08,250000
+Oussama Benbot,Portero,Argelia,437982,850000,1,13,0.077,0.64,850000
+Luca Zidane,Portero,Argelia,283489,1000000,9,10,0.9,7.23,1000000
+Aïssa Mandi,Defensa,Argelia,80293,1000000,6,16,0.375,3.08,1000000
+Achref Abada,Defensa,Argelia,949929,1000000,1,9,0.111,0.92,1000000
+Mohamed Amine Tougai,Defensa,Argelia,592396,1300000,5,8,0.625,5.08,1300000
+Zineddine Belaïd,Defensa,Argelia,625142,1800000,0,9,0.0,0.0,1800000
+Jaouen Hadjam,Defensa,Argelia,750903,7000000,2,5,0.4,3.28,7000000
+Rayan Aït-Nouri,Defensa,Argelia,578391,40000000,14,7,2.0,15.35,40000000
+Rafik Belghali,Defensa,Argelia,864306,7000000,6,6,1.0,8.0,7000000
+Ramy Bensebaini,Defensa,Argelia,284732,7000000,15,13,1.154,9.17,7000000
+Samir Chergui,Defensa,Argelia,668167,3000000,4,9,0.444,3.63,3000000
+Ramiz Zerrouki,Mediocampista,Argelia,416660,6500000,4,10,0.4,3.28,6500000
+Houssem Aouar,Mediocampista,Argelia,395693,8000000,14,9,1.556,12.16,8000000
+Farès Chaïbi,Mediocampista,Argelia,855015,15000000,5,5,1.0,8.0,15000000
+Hicham Boudaoui,Mediocampista,Argelia,560593,12000000,15,8,1.875,14.47,12000000
+Nabil Bentaleb,Mediocampista,Argelia,245537,4500000,15,13,1.154,9.17,4500000
+Ibrahim Maza,Mediocampista,Argelia,905011,45000000,5,2,2.5,18.81,45000000
+Yacine Titraoui,Mediocampista,Argelia,748445,7000000,4,4,1.0,8.0,7000000
+Riyad Mahrez,Delantero,Argelia,171424,5000000,3,17,0.176,1.46,5000000
+Amine Gouiri,Delantero,Argelia,418659,28000000,10,8,1.25,9.89,28000000
+Anis Hadj Moussa,Delantero,Argelia,917911,23000000,5,6,0.833,6.71,23000000
+Nadhir Benbouali,Delantero,Argelia,840254,1200000,3,8,0.375,3.08,1200000
+Mohamed Amoura,Delantero,Argelia,746910,20000000,9,8,1.125,8.95,20000000
+Adil Boulbina,Delantero,Argelia,748443,3000000,0,5,0.0,0.0,3000000
+Farès Ghedjemis,Delantero,Argelia,888738,7500000,2,5,0.4,3.28,7500000
+Yahia Fofana,Portero,Costa de Marfil,418651,5000000,2,7,0.286,2.36,5000000
+Mohamed Koné,Portero,Costa de Marfil,911985,2000000,1,6,0.167,1.38,2000000
+Alban Lafont,Portero,Costa de Marfil,357117,3000000,4,9,0.444,3.63,3000000
+Ousmane Diomandé,Defensa,Costa de Marfil,974982,42000000,4,4,1.0,8.0,42000000
+Ghislain Konan,Defensa,Costa de Marfil,422850,3000000,3,12,0.25,2.06,3000000
+Wilfried Singo,Defensa,Costa de Marfil,648779,23000000,9,7,1.286,10.16,23000000
+Odilon Kossounou,Defensa,Costa de Marfil,644771,15000000,6,7,0.857,6.89,15000000
+Christopher Operi,Defensa,Costa de Marfil,469976,4000000,10,11,0.909,7.3,4000000
+Guéla Doué,Defensa,Costa de Marfil,711980,20000000,4,5,0.8,6.45,20000000
+Emmanuel Agbadou,Defensa,Costa de Marfil,683895,16000000,2,11,0.182,1.51,16000000
+Evan N'Dicka,Defensa,Costa de Marfil,371149,35000000,10,8,1.25,9.89,35000000
+Jean Michaël Seri,Mediocampista,Costa de Marfil,178614,100000,4,16,0.25,2.06,100000
+Seko Fofana,Mediocampista,Costa de Marfil,182893,8000000,10,13,0.769,6.21,8000000
+Franck Kessié,Mediocampista,Costa de Marfil,294808,12000000,7,11,0.636,5.16,12000000
+Ibrahim Sangaré,Mediocampista,Costa de Marfil,375885,20000000,8,10,0.8,6.45,20000000
+Parfait Guiagon,Mediocampista,Costa de Marfil,624913,5000000,8,7,1.143,9.09,5000000
+Christ Inao Oulaï,Mediocampista,Costa de Marfil,1279526,23000000,0,2,0.0,0.0,23000000
+Ange-Yoan Bonny,Delantero,Costa de Marfil,827734,35000000,5,4,1.25,9.89,35000000
+Simon Adingra,Delantero,Costa de Marfil,658536,22000000,4,6,0.667,5.41,22000000
+Yan Diomande,Delantero,Costa de Marfil,1390649,90000000,1,1,1.0,8.0,90000000
+Elye Wahi,Delantero,Costa de Marfil,659542,18000000,6,5,1.2,9.52,18000000
+Oumar Diakité,Delantero,Costa de Marfil,847279,5000000,1,4,0.25,2.06,5000000
+Amad Diallo,Delantero,Costa de Marfil,536835,45000000,5,5,1.0,8.0,45000000
+Nicolas Pépé,Delantero,Costa de Marfil,343052,6000000,13,13,1.0,8.0,6000000
+Evann Guessand,Delantero,Costa de Marfil,500689,25000000,3,6,0.5,4.08,25000000
+Bazoumana Touré,Delantero,Costa de Marfil,1067904,40000000,0,2,0.0,0.0,40000000
+Fahad Talib,Portero,Irak,377268,375000,2,13,0.154,1.28,375000
+Jalal Hassan,Portero,Irak,206782,250000,1,17,0.059,0.49,250000
+Ahmed Basil,Portero,Irak,560952,450000,2,11,0.182,1.51,450000
+Rebin Sulaka,Defensa,Irak,217073,100000,2,16,0.125,1.04,100000
+Hussein Ali,Defensa,Irak,585325,400000,3,6,0.5,4.08,400000
+Zaid Tahseen,Defensa,Irak,931147,600000,2,7,0.286,2.36,600000
+Akam Hashim,Defensa,Irak,933541,700000,2,9,0.222,1.83,700000
+Manaf Younis,Defensa,Irak,945266,300000,5,11,0.455,3.72,300000
+Ahmed Maknzi,Defensa,Irak,881506,450000,0,6,0.0,0.0,450000
+Merchas Doski,Defensa,Irak,530527,1700000,4,8,0.5,4.08,1700000
+Mustafa Saadoon,Defensa,Irak,952341,350000,0,7,0.0,0.0,350000
+Frans Putros,Defensa,Irak,166460,325000,5,14,0.357,2.93,325000
+Youssef Amyn,Mediocampista,Irak,684307,550000,3,4,0.75,6.06,550000
+Ibrahim Bayesh,Mediocampista,Irak,560957,800000,4,7,0.571,4.65,800000
+Zidane Iqbal,Mediocampista,Irak,686845,1000000,6,5,1.2,9.52,1000000
+Amir Al-Ammari,Mediocampista,Irak,303766,1000000,0,10,0.0,0.0,1000000
+Kevin Yakob,Mediocampista,Irak,413268,850000,3,7,0.429,3.51,850000
+Aimar Sher,Mediocampista,Irak,579294,1500000,5,5,1.0,8.0,1500000
+Zaid Ismail,Mediocampista,Irak,1132850,500000,0,6,0.0,0.0,500000
+Ali Al-Hamadi,Delantero,Irak,610581,1500000,3,6,0.5,4.08,1500000
+Mohanad Ali,Delantero,Irak,589646,1200000,7,7,1.0,8.0,1200000
+Ahmed Qasem,Delantero,Irak,833817,3500000,1,4,0.25,2.06,3500000
+Ali Yousif,Delantero,Irak,576265,200000,1,12,0.083,0.69,200000
+Ali Jasim,Delantero,Irak,877672,500000,0,4,0.0,0.0,500000
+Aymen Hussein,Delantero,Irak,401054,400000,5,12,0.417,3.42,400000
+Marko Farji,Delantero,Irak,663153,1700000,0,4,0.0,0.0,1700000
+Matěj Kovář,Portero,República Checa,550829,8000000,2,8,0.25,2.06,8000000
+Jindřich Staněk,Portero,República Checa,242089,2000000,11,12,0.917,7.36,2000000
+Lukáš Horníček,Portero,República Checa,629773,18000000,0,5,0.0,0.0,18000000
+David Zima,Defensa,República Checa,544149,7000000,15,7,2.143,16.35,7000000
+Tomáš Holeš,Defensa,República Checa,216278,1000000,15,15,1.0,8.0,1000000
+Robin Hranáč,Defensa,República Checa,620217,10000000,1,8,0.125,1.04,10000000
+Vladimír Coufal,Defensa,República Checa,157672,2500000,10,15,0.667,5.41,2500000
+Štěpán Chaloupek,Defensa,República Checa,944827,10000000,5,5,1.0,8.0,10000000
+Ladislav Krejčí,Defensa,República Checa,345911,22000000,14,9,1.556,12.16,22000000
+David Jurásek,Defensa,República Checa,500054,5000000,7,7,1.0,8.0,5000000
+Jaroslav Zelený,Defensa,República Checa,142219,600000,10,15,0.667,5.41,600000
+David Douděra,Defensa,República Checa,493758,3500000,7,10,0.7,5.67,3500000
+Vladimír Darida,Mediocampista,República Checa,179643,375000,15,17,0.882,7.09,375000
+Lukáš Červ,Mediocampista,República Checa,611049,6000000,2,7,0.286,2.36,6000000
+Lukáš Provod,Mediocampista,República Checa,292779,8000000,15,11,1.364,10.74,8000000
+Michal Sadílek,Mediocampista,República Checa,321204,8000000,12,9,1.333,10.51,8000000
+Tomáš Souček,Mediocampista,República Checa,283628,10000000,2,13,0.154,1.28,10000000
+Alexandr Sojka,Mediocampista,República Checa,826103,2300000,0,5,0.0,0.0,2300000
+Hugo Sochůrek,Mediocampista,República Checa,1206877,3500000,1,1,1.0,8.0,3500000
+Adam Hložek,Delantero,República Checa,552057,10000000,15,5,3.0,22.12,10000000
+Patrik Schick,Delantero,República Checa,242086,18000000,15,12,1.25,9.89,18000000
+Jan Kuchta,Delantero,República Checa,334802,2700000,9,11,0.818,6.59,2700000
+Mojmír Chytil,Delantero,República Checa,405855,4000000,1,9,0.111,0.92,4000000
+Pavel Šulc,Delantero,República Checa,500053,20000000,0,7,0.0,0.0,20000000
+Tomáš Chorý,Delantero,República Checa,198614,2700000,3,13,0.231,1.91,2700000
+Denis Višinský,Delantero,República Checa,652060,3000000,0,5,0.0,0.0,3000000
+Juan Musso,Portero,Argentina,242359,3000000,5,14,0.357,2.93,3000000
+Gerónimo Rulli,Portero,Argentina,229604,6000000,3,16,0.188,1.55,6000000
+Emiliano Martínez,Portero,Argentina,111873,12000000,8,15,0.533,4.34,12000000
+Marcos Senesi,Defensa,Argentina,469781,25000000,8,11,0.727,5.88,25000000
+Nicolás Tagliafico,Defensa,Argentina,131225,4000000,15,15,1.0,8.0,4000000
+Gonzalo Montiel,Defensa,Argentina,402733,4500000,15,11,1.364,10.74,4500000
+Lisandro Martínez,Defensa,Argentina,480762,40000000,11,10,1.1,8.76,40000000
+Cristian Romero,Defensa,Argentina,355915,45000000,15,10,1.5,11.75,45000000
+Nicolás Otamendi,Defensa,Argentina,54781,1000000,9,20,0.45,3.68,1000000
+Facundo Medina,Defensa,Argentina,474800,18000000,8,9,0.889,7.14,18000000
+Nahuel Molina,Defensa,Argentina,424042,15000000,7,10,0.7,5.67,15000000
+Leandro Paredes,Mediocampista,Argentina,166237,5000000,15,13,1.154,9.17,5000000
+Rodrigo De Paul,Mediocampista,Argentina,255901,14000000,3,14,0.214,1.77,14000000
+Valentín Barco,Mediocampista,Argentina,849410,40000000,6,3,2.0,15.35,40000000
+Giovani Lo Celso,Mediocampista,Argentina,348795,8000000,15,12,1.25,9.89,8000000
+Exequiel Palacios,Mediocampista,Argentina,401578,25000000,15,9,1.667,12.97,25000000
+Nicolás Paz,Mediocampista,Argentina,948294,80000000,2,3,0.667,5.41,80000000
+Thiago Almada,Mediocampista,Argentina,576028,15000000,3,7,0.429,3.51,15000000
+Alexis Mac Allister,Mediocampista,Argentina,534033,70000000,5,9,0.556,4.53,70000000
+Enzo Fernández,Mediocampista,Argentina,648195,90000000,7,7,1.0,8.0,90000000
+Julián Alvarez,Delantero,Argentina,576024,100000000,4,8,0.5,4.08,100000000
+Lionel Messi,Delantero,Argentina,28003,15000000,15,20,0.75,6.06,15000000
+Nicolás González,Delantero,Argentina,466805,40000000,9,6,1.5,11.75,40000000
+Giuliano Simeone,Delantero,Argentina,742201,40000000,2,5,0.4,3.28,40000000
+José Manuel López,Delantero,Argentina,844797,25000000,0,7,0.0,0.0,25000000
+Lautaro Martínez,Delantero,Argentina,406625,85000000,15,10,1.5,11.75,85000000
+Dominik Livaković,Portero,Croacia,205927,4000000,3,13,0.231,1.91,4000000
+Ivor Pandur,Portero,Croacia,371013,4500000,1,8,0.125,1.04,4500000
+Dominik Kotarski,Portero,Croacia,370997,5000000,6,8,0.75,6.06,5000000
+Josip Stanišić,Defensa,Croacia,483046,40000000,15,8,1.875,14.47,40000000
+Marin Pongračić,Defensa,Croacia,282144,6500000,12,10,1.2,9.52,6500000
+Joško Gvardiol,Defensa,Croacia,475959,70000000,8,6,1.333,10.51,70000000
+Duje Ćaleta-Car,Defensa,Croacia,238266,2800000,4,11,0.364,2.99,2800000
+Josip Šutalo,Defensa,Croacia,371001,12000000,12,8,1.5,11.75,12000000
+Kristijan Jakić,Defensa,Croacia,374954,6000000,15,11,1.364,10.74,6000000
+Luka Vušković,Defensa,Croacia,892160,60000000,2,1,2.0,15.35,60000000
+Martin Erlić,Defensa,Croacia,357003,4000000,11,10,1.1,8.76,4000000
+Nikola Moro,Mediocampista,Croacia,316934,7000000,3,10,0.3,2.47,7000000
+Mateo Kovačić,Mediocampista,Croacia,51471,10000000,15,14,1.071,8.54,10000000
+Luka Modrić,Mediocampista,Croacia,27992,3500000,15,22,0.682,5.52,3500000
+Nikola Vlašić,Mediocampista,Croacia,293200,10000000,14,10,1.4,11.01,10000000
+Mario Pašalić,Mediocampista,Croacia,205938,6000000,5,13,0.385,3.16,6000000
+Martin Baturina,Mediocampista,Croacia,580451,30000000,2,5,0.4,3.28,30000000
+Petar Sučić,Mediocampista,Croacia,668207,40000000,1,4,0.25,2.06,40000000
+Toni Fruk,Mediocampista,Croacia,432758,9000000,3,7,0.429,3.51,9000000
+Luka Sučić,Mediocampista,Croacia,502722,10000000,13,5,2.6,19.48,10000000
+Andrej Kramarić,Delantero,Croacia,46580,2500000,15,16,0.938,7.52,2500000
+Ante Budimir,Delantero,Croacia,46413,2800000,9,16,0.562,4.58,2800000
+Ivan Perišić,Delantero,Croacia,42460,1200000,15,19,0.789,6.36,1200000
+Igor Matanović,Delantero,Croacia,605268,22000000,10,5,2.0,15.35,22000000
+Marco Pašalić,Delantero,Croacia,395928,6500000,6,7,0.857,6.89,6500000
+Petar Musa,Delantero,Croacia,387110,12000000,6,10,0.6,4.88,12000000
+Lionel Mpasi,Portero,República Democrática del Congo,164915,400000,2,13,0.154,1.28,400000
+Timothy Fayulu,Portero,República Democrática del Congo,541420,800000,6,8,0.75,6.06,800000
+Matthieu Epolo,Portero,República Democrática del Congo,680218,8000000,3,3,1.0,8.0,8000000
+Aaron Wan-Bissaka,Defensa,República Democrática del Congo,477758,15000000,11,10,1.1,8.76,15000000
+Steve Kapuadi,Defensa,República Democrática del Congo,679709,2500000,0,10,0.0,0.0,2500000
+Axel Tuanzebe,Defensa,República Democrática del Congo,342046,5000000,14,10,1.4,11.01,5000000
+Dylan Batubinsika,Defensa,República Democrática del Congo,289432,600000,6,12,0.5,4.08,600000
+Joris Kayembe,Defensa,República Democrática del Congo,129586,2000000,6,13,0.462,3.78,2000000
+Chancel Mbemba,Defensa,República Democrática del Congo,203348,2000000,9,13,0.692,5.6,2000000
+Gédéon Kalulu,Defensa,República Democrática del Congo,395685,1000000,5,10,0.5,4.08,1000000
+Arthur Masuaku,Defensa,República Democrática del Congo,181380,2000000,15,14,1.071,8.54,2000000
+Ngal'ayel Mukau,Mediocampista,República Democrática del Congo,1016015,15000000,4,3,1.333,10.51,15000000
+Nathanaël Mbuku,Mediocampista,República Democrática del Congo,557614,2000000,1,6,0.167,1.38,2000000
+Samuel Moutoussamy,Mediocampista,República Democrática del Congo,353403,1200000,4,11,0.364,2.99,1200000
+Théo Bongonda,Mediocampista,República Democrática del Congo,280701,3000000,8,12,0.667,5.41,3000000
+Noah Sadiki,Mediocampista,República Democrática del Congo,727089,35000000,0,3,0.0,0.0,35000000
+Aaron Tshibola,Mediocampista,República Democrática del Congo,243633,150000,7,13,0.538,4.38,150000
+Charles Pickel,Mediocampista,República Democrática del Congo,243879,2500000,3,11,0.273,2.25,2500000
+Edo Kayembe,Mediocampista,República Democrática del Congo,486477,4000000,2,10,0.2,1.65,4000000
+Brian Cipenga,Delantero,República Democrática del Congo,700565,2000000,0,10,0.0,0.0,2000000
+Gaël Kakuta,Delantero,República Democrática del Congo,74297,250000,15,16,0.938,7.52,250000
+Meschak Elia,Delantero,República Democrática del Congo,423678,1500000,9,10,0.9,7.23,1500000
+Cédric Bakambu,Delantero,República Democrática del Congo,127048,1200000,7,17,0.412,3.38,1200000
+Fiston Mayele,Delantero,República Democrática del Congo,727157,1800000,0,13,0.0,0.0,1800000
+Yoane Wissa,Delantero,República Democrática del Congo,388165,25000000,4,11,0.364,2.99,25000000
+Simon Banza,Delantero,República Democrática del Congo,344869,10000000,5,11,0.455,3.72,10000000
+Alireza Beiranvand,Portero,Irán,229081,650000,5,15,0.333,2.74,650000
+Payam Niazmand,Portero,Irán,343044,700000,1,13,0.077,0.64,700000
+Hossein Hosseini,Portero,Irán,132561,500000,3,15,0.2,1.65,500000
+Saleh Hardani,Defensa,Irán,697155,800000,3,9,0.333,2.74,800000
+Ehsan Hajsafi,Defensa,Irán,77547,250000,5,18,0.278,2.29,250000
+Shojae Khalilzadeh,Defensa,Irán,213715,100000,4,19,0.211,1.74,100000
+Milad Mohammadi,Defensa,Irán,333355,900000,5,14,0.357,2.93,900000
+Hossein Kanaani,Defensa,Irán,249400,1600000,9,14,0.643,5.22,1600000
+Aria Yousefi,Defensa,Irán,932724,1500000,2,6,0.333,2.74,1500000
+Ali Nemati,Defensa,Irán,527092,550000,1,12,0.083,0.69,550000
+Ramin Rezaeian,Defensa,Irán,188312,250000,4,18,0.222,1.83,250000
+Danial Eiri,Defensa,Irán,1080301,1000000,0,4,0.0,0.0,1000000
+Saeid Ezatolahi,Mediocampista,Irán,249271,1800000,6,11,0.545,4.44,1800000
+Alireza Jahanbakhsh,Mediocampista,Irán,213268,500000,15,14,1.071,8.54,500000
+Mohammad Mohebi,Mediocampista,Irán,603149,2500000,3,9,0.333,2.74,2500000
+Saman Ghoddos,Mediocampista,Irán,204294,1200000,5,14,0.357,2.93,1200000
+Rouzbeh Cheshmi,Mediocampista,Irán,273879,450000,8,14,0.571,4.65,450000
+Mehdi Torabi,Mediocampista,Irán,283833,1200000,7,13,0.538,4.38,1200000
+Mohammad Ghorbani,Mediocampista,Irán,856087,1200000,0,7,0.0,0.0,1200000
+Amirmohammad Razzaghinia,Mediocampista,Irán,1051591,1200000,0,2,0.0,0.0,1200000
+Mehdi Taremi,Delantero,Irán,307058,2000000,6,15,0.4,3.28,2000000
+Mehdi Ghayedi,Delantero,Irán,478192,4500000,5,9,0.556,4.53,4500000
+Ali Alipour,Delantero,Irán,249360,1700000,3,12,0.25,2.06,1700000
+Amirhossein Hosseinzadeh,Delantero,Irán,542380,2200000,2,7,0.286,2.36,2200000
+Shahriyar Moghanlou,Delantero,Irán,357125,800000,2,13,0.154,1.28,800000
+Dennis Dargahi,Delantero,Irán,249303,2000000,15,11,1.364,10.74,2000000
+Mathew Ryan,Portero,Australia,128969,1800000,12,16,0.75,6.06,1800000
+Paul Izzo,Portero,Australia,181921,500000,4,13,0.308,2.53,500000
+Patrick Beach,Portero,Australia,983578,1000000,2,4,0.5,4.08,1000000
+Milos Degenek,Defensa,Australia,187353,450000,5,14,0.357,2.93,450000
+Alessandro Circati,Defensa,Australia,867137,12000000,2,4,0.5,4.08,12000000
+Jacob Italiano,Defensa,Australia,545810,600000,12,6,2.0,15.35,600000
+Jordan Bos,Defensa,Australia,855731,12000000,9,5,1.8,13.93,12000000
+Jason Geria,Defensa,Australia,185175,350000,4,15,0.267,2.2,350000
+Kai Trewin,Defensa,Australia,691326,1800000,3,7,0.429,3.51,1800000
+Aziz Behich,Defensa,Australia,136834,250000,2,17,0.118,0.98,250000
+Harry Souttar,Defensa,Australia,298091,3500000,6,9,0.667,5.41,3500000
+Cameron Burgess,Defensa,Australia,255788,1500000,2,12,0.167,1.38,1500000
+Lucas Herrington,Defensa,Australia,1279984,4500000,0,1,0.0,0.0,4500000
+Connor Metcalfe,Mediocampista,Australia,522223,1500000,7,8,0.875,7.03,1500000
+Aiden O'Neill,Mediocampista,Australia,385918,3000000,4,9,0.444,3.63,3000000
+Cammy Devlin,Mediocampista,Australia,399162,2000000,8,10,0.8,6.45,2000000
+Jackson Irvine,Mediocampista,Australia,192557,1000000,15,15,1.0,8.0,1000000
+Paul Okon-Engstler,Mediocampista,Australia,1064377,1200000,1,3,0.333,2.74,1200000
+Mathew Leckie,Delantero,Australia,126214,300000,15,17,0.882,7.09,300000
+Mohamed Touré,Delantero,Australia,742770,8000000,1,4,0.25,2.06,8000000
+Ajdin Hrustic,Delantero,Australia,265625,600000,8,11,0.727,5.88,600000
+Awer Mabil,Delantero,Australia,255729,500000,2,12,0.167,1.38,500000
+Nestory Irankunda,Delantero,Australia,956920,8000000,0,2,0.0,0.0,8000000
+Cristian Volpato,Delantero,Australia,746891,10000000,4,4,1.0,8.0,10000000
+Nishan Velupillay,Delantero,Australia,888140,650000,4,7,0.571,4.65,650000
+Tete Yengi,Delantero,Australia,849429,450000,0,7,0.0,0.0,450000
+Eloy Room,Portero,Curazao,79294,150000,3,19,0.158,1.31,150000
+Tyrick Bodak,Portero,Curazao,663961,25000,0,6,0.0,0.0,25000
+Trevor Doornbusch,Portero,Curazao,390814,50000,2,8,0.25,2.06,50000
+Shurandy Sambo,Defensa,Curazao,412937,1300000,4,6,0.667,5.41,1300000
+Juriën Gaari,Defensa,Curazao,328455,350000,2,14,0.143,1.18,350000
+Roshon van Eijma,Defensa,Curazao,401029,375000,3,10,0.3,2.47,375000
+Sherel Floranus,Defensa,Curazao,315211,800000,6,9,0.667,5.41,800000
+Armando Obispo,Defensa,Curazao,339337,4000000,8,9,0.889,7.14,4000000
+Joshua Brenet,Defensa,Curazao,207006,1000000,6,14,0.429,3.51,1000000
+Riechedly Bazoer,Defensa,Curazao,216443,1500000,15,11,1.364,10.74,1500000
+Deveron Fonville,Defensa,Curazao,708989,1500000,1,5,0.2,1.65,1500000
+Godfried Roemeratoe,Mediocampista,Curazao,393241,350000,6,8,0.75,6.06,350000
+Juninho Bacuna,Mediocampista,Curazao,348863,1700000,3,10,0.3,2.47,1700000
+Livano Comenencia,Mediocampista,Curazao,626764,500000,4,4,1.0,8.0,500000
+Leandro Bacuna,Mediocampista,Curazao,126014,250000,3,16,0.188,1.55,250000
+Ar'jany Martha,Mediocampista,Curazao,572519,700000,1,4,0.25,2.06,700000
+Tahith Chong,Mediocampista,Curazao,344830,3500000,8,8,1.0,8.0,3500000
+Kevin Felida,Mediocampista,Curazao,433933,400000,5,8,0.625,5.08,400000
+Jürgen Locadia,Delantero,Curazao,166240,200000,15,14,1.071,8.54,200000
+Jeremy Antonisse,Delantero,Curazao,594273,800000,9,6,1.5,11.75,800000
+Sontje Hansen,Delantero,Curazao,485582,3500000,5,6,0.833,6.71,3500000
+Tyrese Noslin,Delantero,Curazao,708005,750000,0,5,0.0,0.0,750000
+Kenji Gorré,Delantero,Curazao,374889,600000,4,13,0.308,2.53,600000
+Jearl Margaritha,Delantero,Curazao,538958,1000000,3,8,0.375,3.08,1000000
+Brandley Kuwas,Delantero,Curazao,232219,250000,3,15,0.2,1.65,250000
+Gervane Kastaneer,Delantero,Curazao,240752,225000,10,12,0.833,6.71,225000
+Zion Suzuki,Portero,Japón,432298,20000000,1,5,0.2,1.65,20000000
+Keisuke Ōsako,Portero,Japón,415521,2000000,1,8,0.125,1.04,2000000
+Tomoki Hayakawa,Portero,Japón,683271,2000000,0,9,0.0,0.0,2000000
+Yukinari Sugawara,Defensa,Japón,405385,5500000,1,7,0.143,1.18,5500000
+Shōgo Taniguchi,Defensa,Japón,307870,750000,4,16,0.25,2.06,750000
+Kō Itakura,Defensa,Japón,355816,8000000,12,11,1.091,8.69,8000000
+Yūto Nagatomo,Defensa,Japón,79522,100000,15,21,0.714,5.78,100000
+Tsuyoshi Watanabe,Defensa,Japón,598791,10000000,11,11,1.0,8.0,10000000
+Ayumu Seko,Defensa,Japón,405389,5000000,1,8,0.125,1.04,5000000
+Hiroki Itō,Defensa,Japón,353892,18000000,12,9,1.333,10.51,18000000
+Takehiro Tomiyasu,Defensa,Japón,331560,5000000,15,9,1.667,12.97,5000000
+Junnosuke Suzuki,Defensa,Japón,848856,3500000,3,4,0.75,6.06,3500000
+Ao Tanaka,Mediocampista,Japón,489359,13000000,5,9,0.556,4.53,13000000
+Takefusa Kubo,Mediocampista,Japón,405398,20000000,4,7,0.571,4.65,20000000
+Ritsu Dōan,Mediocampista,Japón,358504,17000000,7,10,0.7,5.67,17000000
+Daizen Maeda,Mediocampista,Japón,420931,13000000,7,10,0.7,5.67,13000000
+Keito Nakamura,Mediocampista,Japón,405397,10000000,4,7,0.571,4.65,10000000
+Junya Itō,Mediocampista,Japón,348791,3000000,8,15,0.533,4.34,3000000
+Daichi Kamada,Mediocampista,Japón,356141,10000000,12,11,1.091,8.69,10000000
+Yuito Suzuki,Mediocampista,Japón,668606,24000000,3,6,0.5,4.08,24000000
+Kaishū Sano,Mediocampista,Japón,643574,40000000,3,7,0.429,3.51,40000000
+Shuto Machino,Delantero,Japón,550580,4000000,2,8,0.25,2.06,4000000
+Keisuke Gotō,Delantero,Japón,916623,10000000,0,3,0.0,0.0,10000000
+Ayase Ueda,Delantero,Japón,589128,17000000,13,9,1.444,11.34,17000000
+Kōki Ogawa,Delantero,Japón,351567,2000000,9,10,0.9,7.23,2000000
+Kento Shiogai,Delantero,Japón,1144627,8000000,0,3,0.0,0.0,8000000
+Yehvann Diouf,Portero,Senegal,448632,7000000,0,8,0.0,0.0,7000000
+Édouard Mendy,Portero,Senegal,442531,4000000,7,16,0.438,3.58,4000000
+Mory Diaw,Portero,Senegal,164904,900000,4,14,0.286,2.36,900000
+Mamadou Sarr,Defensa,Senegal,910905,22000000,6,2,3.0,22.12,22000000
+Kalidou Koulibaly,Defensa,Senegal,93128,4500000,12,16,0.75,6.06,4500000
+Abdoulaye Seck,Defensa,Senegal,265383,400000,3,16,0.188,1.55,400000
+Ismail Jakobs,Defensa,Senegal,375137,8000000,15,8,1.875,14.47,8000000
+Krépin Diatta,Defensa,Senegal,490426,6000000,15,9,1.667,12.97,6000000
+Moussa Niakhaté,Defensa,Senegal,291200,15000000,3,12,0.25,2.06,15000000
+Antoine Mendy,Defensa,Senegal,891998,10000000,5,4,1.25,9.89,10000000
+El Hadji Malick Diouf,Defensa,Senegal,1111589,28000000,2,3,0.667,5.41,28000000
+Idrissa Gueye,Mediocampista,Senegal,126665,500000,12,18,0.667,5.41,500000
+Pathé Ciss,Mediocampista,Senegal,525578,1800000,1,14,0.071,0.59,1800000
+Lamine Camara,Mediocampista,Senegal,918969,40000000,7,4,1.75,13.57,40000000
+Pape Matar Sarr,Mediocampista,Senegal,568693,30000000,4,5,0.8,6.45,30000000
+Habib Diarra,Mediocampista,Senegal,876631,35000000,8,4,2.0,15.35,35000000
+Bara Sapoko Ndiaye,Mediocampista,Senegal,1497653,4000000,3,1,3.0,22.12,4000000
+Pape Gueye,Mediocampista,Senegal,485963,40000000,0,9,0.0,0.0,40000000
+Assane Diao,Delantero,Senegal,1061282,30000000,5,2,2.5,18.81,30000000
+Bamba Dieng,Delantero,Senegal,822458,15000000,9,8,1.125,8.95,15000000
+Sadio Mané,Delantero,Senegal,200512,6000000,15,16,0.938,7.52,6000000
+Nicolas Jackson,Delantero,Senegal,776890,40000000,6,6,1.0,8.0,40000000
+Cherif Ndiaye,Delantero,Senegal,480705,5000000,6,12,0.5,4.08,5000000
+Iliman Ndiaye,Delantero,Senegal,623570,55000000,1,8,0.125,1.04,55000000
+Ismaïla Sarr,Delantero,Senegal,410225,40000000,11,10,1.1,8.76,40000000
+Ibrahim Mbaye,Delantero,Senegal,1185888,30000000,1,1,1.0,8.0,30000000
+Alexander Schlager,Portero,Austria,186374,2000000,14,12,1.167,9.27,2000000
+Florian Wiegele,Portero,Austria,393999,2200000,2,7,0.286,2.36,2200000
+Patrick Pentz,Portero,Austria,223972,2200000,2,11,0.182,1.51,2200000
+David Affengruber,Defensa,Austria,452483,20000000,4,7,0.571,4.65,20000000
+Kevin Danso,Defensa,Austria,263236,20000000,14,9,1.556,12.16,20000000
+Stefan Posch,Defensa,Austria,223974,6000000,15,11,1.364,10.74,6000000
+David Alaba,Defensa,Austria,59016,3000000,15,15,1.0,8.0,3000000
+Philipp Lienhart,Defensa,Austria,225657,10000000,15,11,1.364,10.74,10000000
+Phillipp Mwene,Defensa,Austria,127573,1500000,11,14,0.786,6.34,1500000
+Marco Friedl,Defensa,Austria,156990,10000000,15,10,1.5,11.75,10000000
+Michael Svoboda,Defensa,Austria,438961,3500000,4,9,0.444,3.63,3500000
+Xaver Schlager,Mediocampista,Austria,223979,10000000,14,10,1.4,11.01,10000000
+Nicolas Seiwald,Mediocampista,Austria,404950,25000000,3,7,0.429,3.51,25000000
+Marcel Sabitzer,Mediocampista,Austria,106987,6000000,15,14,1.071,8.54,6000000
+Florian Grillitsch,Mediocampista,Austria,195736,2500000,15,12,1.25,9.89,2500000
+Carney Chukwuemeka,Mediocampista,Austria,659459,20000000,15,4,3.75,26.84,20000000
+Romano Schmid,Mediocampista,Austria,346853,15000000,7,8,0.875,7.03,15000000
+Konrad Laimer,Mediocampista,Austria,223967,32000000,15,11,1.364,10.74,32000000
+Alexander Prass,Mediocampista,Austria,434116,9000000,7,7,1.0,8.0,9000000
+Paul Wanner,Mediocampista,Austria,900909,22000000,6,2,3.0,22.12,22000000
+Alessandro Schöpf,Mediocampista,Austria,118397,800000,15,14,1.071,8.54,800000
+Marko Arnautović,Delantero,Austria,41384,2000000,15,19,0.789,6.36,2000000
+Michael Gregoritsch,Delantero,Austria,120205,1500000,15,14,1.071,8.54,1500000
+Saša Kalajdžić,Delantero,Austria,369567,4000000,15,10,1.5,11.75,4000000
+Patrick Wimmer,Delantero,Austria,533295,12000000,15,7,2.143,16.35,12000000
+Hernán Galíndez,Portero,Ecuador,77127,300000,2,21,0.095,0.79,300000
+Moisés Ramírez,Portero,Ecuador,450233,800000,0,7,0.0,0.0,800000
+Gonzalo Valle,Portero,Ecuador,351941,1800000,2,12,0.167,1.38,1800000
+Félix Torres,Defensa,Ecuador,468174,1000000,2,11,0.182,1.51,1000000
+Piero Hincapié,Defensa,Ecuador,659813,50000000,6,6,1.0,8.0,50000000
+Joel Ordóñez,Defensa,Ecuador,893661,33000000,4,4,1.0,8.0,33000000
+Willian Pacho,Defensa,Ecuador,661171,80000000,4,6,0.667,5.41,80000000
+Pervis Estupiñán,Defensa,Ecuador,349599,12000000,14,10,1.4,11.01,12000000
+Ángelo Preciado,Defensa,Ecuador,450241,3500000,15,10,1.5,11.75,3500000
+Jackson Porozo,Defensa,Ecuador,491616,2500000,2,7,0.286,2.36,2500000
+Jordy Alcívar,Mediocampista,Ecuador,598145,2000000,1,8,0.125,1.04,2000000
+Anthony Valencia,Mediocampista,Ecuador,974374,1800000,6,4,1.5,11.75,1800000
+Kendry Páez,Mediocampista,Ecuador,1052439,8000000,1,1,1.0,8.0,8000000
+Pedro Vite,Mediocampista,Ecuador,659806,6000000,0,6,0.0,0.0,6000000
+Denil Castillo,Mediocampista,Ecuador,941418,7000000,1,4,0.25,2.06,7000000
+Alan Franco,Mediocampista,Ecuador,503343,4000000,6,11,0.545,4.44,4000000
+Moisés Caicedo,Mediocampista,Ecuador,687626,100000000,4,6,0.667,5.41,100000000
+Yaimar Medina,Mediocampista,Ecuador,893659,4000000,5,3,1.667,12.97,4000000
+John Yeboah,Delantero,Ecuador,439914,5500000,7,7,1.0,8.0,5500000
+Kevin Rodríguez,Delantero,Ecuador,684159,6000000,8,8,1.0,8.0,6000000
+Enner Valencia,Delantero,Ecuador,139503,1000000,15,18,0.833,6.71,1000000
+Alan Minda,Delantero,Ecuador,897051,3000000,5,5,1.0,8.0,3000000
+Jordy Caicedo,Delantero,Ecuador,360412,2000000,0,10,0.0,0.0,2000000
+Gonzalo Plata,Delantero,Ecuador,592735,9000000,12,7,1.714,13.31,9000000
+Nilson Angulo,Delantero,Ecuador,903611,17000000,2,4,0.5,4.08,17000000
+Jeremy Arévalo,Delantero,Ecuador,971663,7000000,0,3,0.0,0.0,7000000
+Yazeed Abulaila,Portero,Jordania,261850,300000,0,15,0.0,0.0,300000
+Nour Bani Attiah,Portero,Jordania,261837,250000,0,15,0.0,0.0,250000
+Abdallah Al-Fakhouri,Portero,Jordania,658805,250000,1,8,0.125,1.04,250000
+Mohammad Abu Hashish,Defensa,Jordania,895249,400000,0,13,0.0,0.0,400000
+Abdallah Nasib,Defensa,Jordania,882197,400000,2,14,0.143,1.18,400000
+Husam Abu Dahab,Defensa,Jordania,895291,350000,0,8,0.0,0.0,350000
+Yazan Al-Arab,Defensa,Jordania,539961,1000000,2,12,0.167,1.38,1000000
+Mo Abualnadi,Defensa,Jordania,658052,350000,0,7,0.0,0.0,350000
+Salim Obaid,Defensa,Jordania,217929,25000,0,15,0.0,0.0,25000
+Saed Al-Rosan,Defensa,Jordania,561481,450000,1,11,0.091,0.76,450000
+Ihsan Haddad,Defensa,Jordania,310943,300000,2,14,0.143,1.18,300000
+Anas Badawi,Defensa,Jordania,1378902,200000,0,10,0.0,0.0,200000
+Amer Jamous,Mediocampista,Jordania,744040,500000,0,5,0.0,0.0,500000
+Noor Al-Rawabdeh,Mediocampista,Jordania,561485,500000,2,11,0.182,1.51,500000
+Rajaei Ayed,Mediocampista,Jordania,261842,325000,0,14,0.0,0.0,325000
+Ibrahim Sadeh,Mediocampista,Jordania,709974,500000,1,8,0.125,1.04,500000
+Mohannad Abu Taha,Mediocampista,Jordania,883111,550000,1,5,0.2,1.65,550000
+Nizar Al-Rashdan,Mediocampista,Jordania,734751,600000,0,9,0.0,0.0,600000
+Mohammad Al-Dawoud,Mediocampista,Jordania,310801,150000,0,15,0.0,0.0,150000
+Mohammad Abu Zrayq,Delantero,Jordania,677986,700000,4,10,0.4,3.28,700000
+Ali Olwan,Delantero,Jordania,664057,800000,3,8,0.375,3.08,800000
+Musa Al-Taamari,Delantero,Jordania,551505,10000000,4,11,0.364,2.99,10000000
+Odeh Al-Fakhouri,Delantero,Jordania,1252820,350000,0,2,0.0,0.0,350000
+Mahmoud Al-Mardi,Delantero,Jordania,401086,350000,0,14,0.0,0.0,350000
+Ibrahim Sabra,Delantero,Jordania,1142382,500000,4,2,2.0,15.35,500000
+Ali Azaizeh,Delantero,Jordania,1059056,325000,1,4,0.25,2.06,325000
+Ronwen Williams,Portero,Sudáfrica,175577,800000,4,16,0.25,2.06,800000
+Sipho Chaine,Portero,Sudáfrica,453370,1600000,0,11,0.0,0.0,1600000
+Ricardo Goss,Portero,Sudáfrica,258304,350000,0,14,0.0,0.0,350000
+Thabang Matuludi,Defensa,Sudáfrica,1109254,1200000,1,9,0.111,0.92,1200000
+Khulumani Ndamane,Defensa,Sudáfrica,1283140,1200000,0,4,0.0,0.0,1200000
+Aubrey Modiba,Defensa,Sudáfrica,353432,1800000,1,12,0.083,0.69,1800000
+Mbekezeli Mbokazi,Defensa,Sudáfrica,1378320,3500000,0,2,0.0,0.0,3500000
+Samukele Kabini,Defensa,Sudáfrica,1175086,2500000,1,4,0.25,2.06,2500000
+Nkosinathi Sibisi,Defensa,Sudáfrica,399068,1600000,1,12,0.083,0.69,1600000
+Khuliso Mudau,Defensa,Sudáfrica,450806,1200000,1,13,0.077,0.64,1200000
+Ime Okon,Defensa,Sudáfrica,1107265,2000000,2,4,0.5,4.08,2000000
+Olwethu Makhanya,Defensa,Sudáfrica,1069801,2000000,0,4,0.0,0.0,2000000
+Bradley Cross,Defensa,Sudáfrica,555209,1000000,0,7,0.0,0.0,1000000
+Teboho Mokoena,Mediocampista,Sudáfrica,436372,2800000,1,11,0.091,0.76,2800000
+Thalente Mbatha,Mediocampista,Sudáfrica,735697,2000000,0,8,0.0,0.0,2000000
+Themba Zwane,Mediocampista,Sudáfrica,176578,250000,4,18,0.222,1.83,250000
+Sphephelo Sithole,Mediocampista,Sudáfrica,401736,600000,2,9,0.222,1.83,600000
+Jayden Adams,Mediocampista,Sudáfrica,804472,1800000,0,7,0.0,0.0,1800000
+Oswin Appollis,Delantero,Sudáfrica,673381,2500000,0,6,0.0,0.0,2500000
+Tshepang Moremi,Delantero,Sudáfrica,844485,1400000,0,7,0.0,0.0,1400000
+Lyle Foster,Delantero,Sudáfrica,467623,8000000,12,7,1.714,13.31,8000000
+Relebohile Mofokeng,Delantero,Sudáfrica,1125037,3000000,0,3,0.0,0.0,3000000
+Thapelo Maseko,Delantero,Sudáfrica,983330,750000,2,4,0.5,4.08,750000
+Iqraam Rayners,Delantero,Sudáfrica,337884,2800000,2,12,0.167,1.38,2800000
+Evidence Makgopa,Delantero,Sudáfrica,746781,1400000,0,8,0.0,0.0,1400000
+Kamogelo Sebelebele,Delantero,Sudáfrica,994370,1200000,0,5,0.0,0.0,1200000
+Thibaut Courtois,Portero,Bélgica,108390,15000000,15,16,0.938,7.52,15000000
+Senne Lammens,Portero,Bélgica,503883,35000000,1,5,0.2,1.65,35000000
+Mike Penders,Portero,Bélgica,834397,25000000,1,2,0.5,4.08,25000000
+Zeno Debast,Defensa,Bélgica,548193,28000000,8,4,2.0,15.35,28000000
+Arthur Theate,Defensa,Bélgica,368891,17000000,7,8,0.875,7.03,17000000
+Brandon Mechele,Defensa,Bélgica,236168,2800000,4,15,0.267,2.2,2800000
+Maxim De Cuyper,Defensa,Bélgica,429915,22000000,7,7,1.0,8.0,22000000
+Thomas Meunier,Defensa,Bélgica,100986,1500000,15,16,0.938,7.52,1500000
+Koni de Winter,Defensa,Bélgica,490384,23000000,11,6,1.833,14.17,23000000
+Joaquin Seys,Defensa,Bélgica,981196,20000000,4,3,1.333,10.51,20000000
+Timothy Castagne,Defensa,Bélgica,262226,8000000,9,12,0.75,6.06,8000000
+Nathan Ngoy,Defensa,Bélgica,548254,25000000,12,5,2.4,18.13,25000000
+Axel Witsel,Mediocampista,Bélgica,35047,1200000,10,19,0.526,4.29,1200000
+Kevin De Bruyne,Mediocampista,Bélgica,88755,8000000,15,16,0.938,7.52,8000000
+Youri Tielemans,Mediocampista,Bélgica,249565,30000000,10,11,0.909,7.3,30000000
+Diego Moreira,Mediocampista,Bélgica,655006,25000000,5,3,1.667,12.97,25000000
+Hans Vanaken,Mediocampista,Bélgica,137576,5000000,5,15,0.333,2.74,5000000
+Alexis Saelemaekers,Mediocampista,Bélgica,381950,20000000,13,8,1.625,12.66,20000000
+Nicolas Raskin,Mediocampista,Bélgica,422763,12000000,6,7,0.857,6.89,12000000
+Amadou Onana,Mediocampista,Bélgica,485706,45000000,13,6,2.167,16.52,45000000
+Romelu Lukaku,Delantero,Bélgica,96341,6000000,15,15,1.0,8.0,6000000
+Leandro Trossard,Delantero,Bélgica,144028,18000000,12,13,0.923,7.4,18000000
+Jérémy Doku,Delantero,Bélgica,486049,75000000,14,6,2.333,17.67,75000000
+Dodi Lukébakio,Delantero,Bélgica,303259,15000000,8,10,0.8,6.45,15000000
+Charles De Ketelaere,Delantero,Bélgica,435772,30000000,11,7,1.571,12.27,30000000
+Matías Fernández-Pardo,Delantero,Bélgica,724129,35000000,5,3,1.667,12.97,35000000
+Mohamed El Shenawy,Portero,Egipto,134573,500000,7,19,0.368,3.02,500000
+El Mahdy Soliman,Portero,Egipto,104951,150000,1,21,0.048,0.4,150000
+Mostafa Shobeir,Portero,Egipto,661455,1200000,3,8,0.375,3.08,1200000
+Mohamed Alaa,Portero,Egipto,1307898,1200000,0,8,0.0,0.0,1200000
+Yasser Ibrahim,Defensa,Egipto,237425,275000,11,15,0.733,5.93,275000
+Mohamed Hany,Defensa,Egipto,343974,1500000,4,12,0.333,2.74,1500000
+Hossam Abdelmaguid,Defensa,Egipto,737524,2000000,0,7,0.0,0.0,2000000
+Ramy Rabia,Defensa,Egipto,172623,600000,15,15,1.0,8.0,600000
+Mohamed Abdelmonem,Defensa,Egipto,566025,2500000,5,9,0.556,4.53,2500000
+Ahmed Fotouh,Defensa,Egipto,465966,1000000,1,10,0.1,0.83,1000000
+Karim Hafez,Defensa,Egipto,333004,700000,7,12,0.583,4.74,700000
+Tarek Alaa,Defensa,Egipto,1087789,250000,0,6,0.0,0.0,250000
+Emam Ashour,Mediocampista,Egipto,604008,4000000,13,10,1.3,10.27,4000000
+Mostafa Ziko,Mediocampista,Egipto,896616,1800000,0,11,0.0,0.0,1800000
+Hamdy Fathy,Mediocampista,Egipto,340303,1800000,4,13,0.308,2.53,1800000
+Mohanad Lasheen,Mediocampista,Egipto,479682,3000000,1,12,0.083,0.69,3000000
+Nabil Emad,Mediocampista,Egipto,479683,1000000,2,12,0.167,1.38,1000000
+Marwan Attia,Mediocampista,Egipto,734542,4000000,2,9,0.222,1.83,4000000
+Mahmoud Saber,Mediocampista,Egipto,729390,1500000,3,6,0.5,4.08,1500000
+Trézéguet,Delantero,Egipto,234189,4500000,15,13,1.154,9.17,4500000
+Hamza Abdelkarim,Delantero,Egipto,1259085,1500000,0,1,0.0,0.0,1500000
+Mohamed Salah,Delantero,Egipto,148455,22000000,15,16,0.938,7.52,22000000
+Haissem Hassan,Delantero,Egipto,620164,3500000,0,6,0.0,0.0,3500000
+Ibrahim Adel,Delantero,Egipto,677278,2500000,1,7,0.143,1.18,2500000
+Omar Marmoush,Delantero,Egipto,445939,50000000,7,9,0.778,6.28,50000000
+Zizo,Delantero,Egipto,320722,3500000,9,12,0.75,6.06,3500000
+Yassine Bounou,Portero,Marruecos,207834,3000000,6,17,0.353,2.9,3000000
+Munir El Kajoui,Portero,Marruecos,97925,600000,3,19,0.158,1.31,600000
+Ahmed Reda Tagnaouti,Portero,Marruecos,238997,1000000,3,12,0.25,2.06,1000000
+Achraf Hakimi,Defensa,Marruecos,398073,80000000,8,9,0.889,7.14,80000000
+Noussair Mazraoui,Defensa,Marruecos,340456,18000000,15,10,1.5,11.75,18000000
+Marwane Saâdane,Defensa,Marruecos,210009,400000,5,16,0.312,2.57,400000
+Zakaria El Ouahdi,Defensa,Marruecos,820474,17000000,5,6,0.833,6.71,17000000
+Issa Diop,Defensa,Marruecos,272622,8000000,14,11,1.273,10.07,8000000
+Chadi Riad,Defensa,Marruecos,689637,15000000,3,5,0.6,4.88,15000000
+Youssef Belammari,Defensa,Marruecos,518804,1200000,2,9,0.222,1.83,1200000
+Redouane Halhal,Defensa,Marruecos,913660,5000000,2,5,0.4,3.28,5000000
+Anass Salah-Eddine,Defensa,Marruecos,485584,12000000,10,6,1.667,12.97,12000000
+Sofyan Amrabat,Mediocampista,Marruecos,287579,10000000,15,11,1.364,10.74,10000000
+Ayyoub Bouaddi,Mediocampista,Marruecos,1097139,50000000,0,1,0.0,0.0,50000000
+Chemsdine Talbi,Mediocampista,Marruecos,743384,25000000,6,3,2.0,15.35,25000000
+Azzedine Ounahi,Mediocampista,Marruecos,593482,10000000,9,8,1.125,8.95,10000000
+Ismael Saibari,Mediocampista,Marruecos,702869,40000000,9,7,1.286,10.16,40000000
+Samir El Mourabet,Mediocampista,Marruecos,1130514,22000000,1,2,0.5,4.08,22000000
+Gessime Yassine,Mediocampista,Marruecos,1151929,12000000,0,2,0.0,0.0,12000000
+Bilal El Khannouss,Mediocampista,Marruecos,654982,35000000,0,4,0.0,0.0,35000000
+Neil El Aynaoui,Mediocampista,Marruecos,901019,23000000,4,6,0.667,5.41,23000000
+Soufiane Rahimi,Delantero,Marruecos,598506,6000000,4,12,0.333,2.74,6000000
+Brahim Díaz,Delantero,Marruecos,314678,35000000,10,8,1.25,9.89,35000000
+Amine Sbaï,Delantero,Marruecos,851220,4000000,1,7,0.143,1.18,4000000
+Ayoub El Kaabi,Delantero,Marruecos,521127,4500000,3,14,0.214,1.77,4500000
+Ayoube Amaimouni,Delantero,Marruecos,799993,10000000,1,3,0.333,2.74,10000000
+Jacob Widell Zetterström,Portero,Suecia,549440,2500000,4,9,0.444,3.63,2500000
+Viktor Johansson,Portero,Suecia,273742,12000000,1,9,0.111,0.92,12000000
+Kristoffer Nordfeldt,Portero,Suecia,75890,175000,6,18,0.333,2.74,175000
+Gustaf Lagerbielke,Defensa,Suecia,485395,10000000,1,8,0.125,1.04,10000000
+Victor Lindelöf,Defensa,Suecia,184573,5000000,15,13,1.154,9.17,5000000
+Isak Hien,Defensa,Suecia,503075,22000000,10,9,1.111,8.84,22000000
+Gabriel Gudmundsson,Defensa,Suecia,362108,20000000,8,9,0.889,7.14,20000000
+Herman Johansson,Defensa,Suecia,744853,1800000,0,10,0.0,0.0,1800000
+Daniel Svensson,Defensa,Suecia,579287,22000000,1,6,0.167,1.38,22000000
+Hjalmar Ekdal,Defensa,Suecia,392179,5000000,2,9,0.222,1.83,5000000
+Carl Starfelt,Defensa,Suecia,258987,4500000,7,13,0.538,4.38,4500000
+Eric Smith,Defensa,Suecia,292534,5000000,15,11,1.364,10.74,5000000
+Alexander Bernhardsson,Defensa,Suecia,633454,3000000,6,9,0.667,5.41,3000000
+Elliot Stroud,Defensa,Suecia,687622,5000000,0,5,0.0,0.0,5000000
+Lucas Bergvall,Mediocampista,Suecia,866246,35000000,5,2,2.5,18.81,35000000
+Benjamin Nygren,Mediocampista,Suecia,475949,14000000,1,6,0.167,1.38,14000000
+Ken Sema,Mediocampista,Suecia,252345,800000,3,14,0.214,1.77,800000
+Jesper Karlström,Mediocampista,Suecia,222855,4000000,3,12,0.25,2.06,4000000
+Yasin Ayari,Mediocampista,Suecia,667287,35000000,5,4,1.25,9.89,35000000
+Mattias Svanberg,Mediocampista,Suecia,342405,8000000,12,9,1.333,10.51,8000000
+Besfort Zeneli,Mediocampista,Suecia,715653,6000000,4,5,0.8,6.45,6000000
+Alexander Isak,Delantero,Suecia,349066,85000000,15,8,1.875,14.47,85000000
+Anthony Elanga,Delantero,Suecia,583189,32000000,1,6,0.167,1.38,32000000
+Viktor Gyökeres,Delantero,Suecia,325443,65000000,4,10,0.4,3.28,65000000
+Gustaf Nilsson,Delantero,Suecia,320440,1800000,15,11,1.364,10.74,1800000
+Taha Ali,Delantero,Suecia,731771,1500000,1,9,0.111,0.92,1500000
+Nikola Vasilj,Portero,Bosnia y Herzegovina,248454,4500000,2,12,0.167,1.38,4500000
+Osman Hadzikic,Portero,Bosnia y Herzegovina,188881,400000,9,12,0.75,6.06,400000
+Martin Zlomislić,Portero,Bosnia y Herzegovina,495320,2000000,0,9,0.0,0.0,2000000
+Nihad Mujakić,Defensa,Bosnia y Herzegovina,380919,1200000,8,10,0.8,6.45,1200000
+Dennis Hadzikadunic,Defensa,Bosnia y Herzegovina,322065,1200000,10,9,1.111,8.84,1200000
+Tarik Muharemović,Defensa,Bosnia y Herzegovina,679423,25000000,5,5,1.0,8.0,25000000
+Sead Kolašinac,Defensa,Bosnia y Herzegovina,94005,4000000,15,14,1.071,8.54,4000000
+Amar Dedić,Defensa,Bosnia y Herzegovina,519184,16000000,0,7,0.0,0.0,16000000
+Nikola Katić,Defensa,Bosnia y Herzegovina,422051,1800000,0,7,0.0,0.0,1800000
+Stjepan Radeljić,Defensa,Bosnia y Herzegovina,384568,2800000,3,10,0.3,2.47,2800000
+Nidal Celik,Defensa,Bosnia y Herzegovina,819566,7000000,1,1,1.0,8.0,7000000
+Benjamin Tahirović,Mediocampista,Bosnia y Herzegovina,787907,4500000,2,5,0.4,3.28,4500000
+Armin Gigović,Mediocampista,Bosnia y Herzegovina,651269,2500000,0,7,0.0,0.0,2500000
+Ivan Bašić,Mediocampista,Bosnia y Herzegovina,620560,1500000,2,6,0.333,2.74,1500000
+Ivan Šunjić,Mediocampista,Bosnia y Herzegovina,226097,2000000,1,11,0.091,0.76,2000000
+Amar Memić,Mediocampista,Bosnia y Herzegovina,638990,4500000,0,7,0.0,0.0,4500000
+Amir Hadziahmetovic,Mediocampista,Bosnia y Herzegovina,293213,4000000,10,11,0.909,7.3,4000000
+Dženis Burnić,Mediocampista,Bosnia y Herzegovina,251295,1200000,7,10,0.7,5.67,1200000
+Kerim Alajbegović,Mediocampista,Bosnia y Herzegovina,929994,22000000,1,1,1.0,8.0,22000000
+Esmir Bajraktarevic,Mediocampista,Bosnia y Herzegovina,925862,8000000,0,3,0.0,0.0,8000000
+Ermin Mahmic,Mediocampista,Bosnia y Herzegovina,803049,5000000,0,3,0.0,0.0,5000000
+Samed Baždar,Delantero,Bosnia y Herzegovina,710969,1500000,1,4,0.25,2.06,1500000
+Ermedin Demirović,Delantero,Bosnia y Herzegovina,335457,22000000,2,10,0.2,1.65,22000000
+Edin Džeko,Delantero,Bosnia y Herzegovina,28396,1000000,15,22,0.682,5.52,1000000
+Haris Tabaković,Delantero,Bosnia y Herzegovina,203123,3500000,15,13,1.154,9.17,3500000
+Jovo Lukić,Delantero,Bosnia y Herzegovina,457738,2200000,0,7,0.0,0.0,2200000
+Angus Gunn,Portero,Escocia,201574,1000000,2,12,0.167,1.38,1000000
+Liam Kelly,Portero,Escocia,252986,300000,0,12,0.0,0.0,300000
+Craig Gordon,Portero,Escocia,12589,50000,15,25,0.6,4.88,50000
+Aaron Hickey,Defensa,Escocia,591949,16000000,0,7,0.0,0.0,16000000
+Andy Robertson,Defensa,Escocia,234803,7000000,15,14,1.071,8.54,7000000
+Grant Hanley,Defensa,Escocia,121385,200000,10,16,0.625,5.08,200000
+Kieran Tierney,Defensa,Escocia,300716,8000000,15,11,1.364,10.74,8000000
+Jack Hendry,Defensa,Escocia,363223,2500000,7,13,0.538,4.38,2500000
+John Souttar,Defensa,Escocia,235767,2000000,15,11,1.364,10.74,2000000
+Dominic Hyam,Defensa,Escocia,263268,2000000,2,12,0.167,1.38,2000000
+Nathan Patterson,Defensa,Escocia,424015,10000000,10,6,1.667,12.97,10000000
+Anthony Ralston,Defensa,Escocia,388171,1500000,4,9,0.444,3.63,1500000
+Scott McKenna,Defensa,Escocia,255906,4000000,13,11,1.182,9.38,4000000
+Scott McTominay,Mediocampista,Escocia,315969,40000000,15,11,1.364,10.74,40000000
+John McGinn,Mediocampista,Escocia,193116,13000000,12,13,0.923,7.4,13000000
+Tyler Fletcher,Mediocampista,Escocia,1049911,1500000,0,1,0.0,0.0,1500000
+Ryan Christie,Mediocampista,Escocia,188077,8000000,14,13,1.077,8.58,8000000
+Lewis Ferguson,Mediocampista,Escocia,428563,14000000,8,8,1.0,8.0,14000000
+Kenny McLean,Mediocampista,Escocia,126600,400000,5,16,0.312,2.57,400000
+Lyndon Dykes,Delantero,Escocia,347138,800000,5,12,0.417,3.42,800000
+Ché Adams,Delantero,Escocia,346779,5000000,7,11,0.636,5.16,5000000
+Ross Stewart,Delantero,Escocia,447995,2500000,7,11,0.636,5.16,2500000
+Ben Doak,Delantero,Escocia,719673,15000000,4,2,2.0,15.35,15000000
+George Hirst,Delantero,Escocia,420808,10000000,4,9,0.444,3.63,10000000
+Lawrence Shankland,Delantero,Escocia,225744,3000000,6,12,0.5,4.08,3000000
+Findlay Curtis,Delantero,Escocia,1082993,2000000,0,2,0.0,0.0,2000000
+Raúl Rangel,Portero,México,802855,6500000,0,8,0.0,0.0,6500000
+Carlos Acevedo,Portero,México,356042,2800000,1,12,0.083,0.69,2800000
+Guillermo Ochoa,Portero,México,29559,250000,11,22,0.5,4.08,250000
+Jorge Sánchez,Defensa,México,356044,2000000,3,10,0.3,2.47,2000000
+César Montes,Defensa,México,387687,7500000,10,11,0.909,7.3,7500000
+Edson Álvarez,Defensa,México,401356,15000000,14,10,1.4,11.01,15000000
+Johan Vásquez,Defensa,México,532937,12000000,4,9,0.444,3.63,12000000
+Israel Reyes,Defensa,México,687558,6500000,2,8,0.25,2.06,6500000
+Mateo Chávez,Defensa,México,1066953,4000000,1,4,0.25,2.06,4000000
+Jesús Gallardo,Defensa,México,344854,2800000,1,13,0.077,0.64,2800000
+Erik Lira,Mediocampista,México,602324,12000000,0,8,0.0,0.0,12000000
+Luis Romo,Mediocampista,México,532938,3000000,1,13,0.077,0.64,3000000
+Álvaro Fidalgo,Mediocampista,México,261503,6000000,0,11,0.0,0.0,6000000
+Orbelín Pineda,Mediocampista,México,334042,7000000,2,12,0.167,1.38,7000000
+Obed Vargas,Mediocampista,México,889435,10000000,3,2,1.5,11.75,10000000
+Gilberto Mora,Mediocampista,México,1155723,10000000,1,1,1.0,8.0,10000000
+Luis Chávez,Mediocampista,México,331059,6000000,4,12,0.333,2.74,6000000
+Brian Gutiérrez,Mediocampista,México,724443,8000000,1,5,0.2,1.65,8000000
+Raúl Jiménez,Delantero,México,206040,3000000,13,17,0.765,6.18,3000000
+Alexis Vega,Delantero,México,424689,8000000,7,10,0.7,5.67,8000000
+Santiago Giménez,Delantero,México,552955,18000000,9,7,1.286,10.16,18000000
+Armando González,Delantero,México,837619,15000000,0,5,0.0,0.0,15000000
+Julián Quiñones,Delantero,México,416090,14000000,6,11,0.545,4.44,14000000
+César Huerta,Delantero,México,540315,3500000,4,7,0.571,4.65,3500000
+Guillermo Martínez,Delantero,México,347932,1500000,0,13,0.0,0.0,1500000
+Roberto Alvarado,Delantero,México,353583,7500000,0,9,0.0,0.0,7500000
+Gregor Kobel,Portero,Suiza,257814,40000000,15,10,1.5,11.75,40000000
+Yvon Mvogo,Portero,Suiza,147051,2500000,7,14,0.5,4.08,2500000
+Marvin Keller,Portero,Suiza,500763,6000000,4,5,0.8,6.45,6000000
+Miro Muheim,Defensa,Suiza,298603,5000000,11,10,1.1,8.76,5000000
+Silvan Widmer,Defensa,Suiza,168989,800000,15,15,1.0,8.0,800000
+Nico Elvedi,Defensa,Suiza,192635,8000000,15,11,1.364,10.74,8000000
+Manuel Akanji,Defensa,Suiza,284730,17000000,15,12,1.25,9.89,17000000
+Ricardo Rodríguez,Defensa,Suiza,86784,1400000,15,15,1.0,8.0,1400000
+Eray Cömert,Defensa,Suiza,298583,2500000,13,10,1.3,10.27,2500000
+Aurèle Amenda,Defensa,Suiza,635645,10000000,3,4,0.75,6.06,10000000
+Luca Jaquez,Defensa,Suiza,539798,10000000,13,5,2.6,19.48,10000000
+Denis Zakaria,Mediocampista,Suiza,334526,25000000,15,11,1.364,10.74,25000000
+Remo Freuler,Mediocampista,Suiza,148252,3000000,4,16,0.25,2.06,3000000
+Johan Manzambi,Mediocampista,Suiza,927353,50000000,0,2,0.0,0.0,50000000
+Granit Xhaka,Mediocampista,Suiza,111455,8000000,15,15,1.0,8.0,8000000
+Ardon Jashari,Mediocampista,Suiza,608172,25000000,5,5,1.0,8.0,25000000
+Djibril Sow,Mediocampista,Suiza,212723,7500000,15,11,1.364,10.74,7500000
+Michel Aebischer,Mediocampista,Suiza,237658,4000000,9,11,0.818,6.59,4000000
+Fabian Rieder,Mediocampista,Suiza,507341,12000000,9,6,1.5,11.75,12000000
+Breel Embolo,Delantero,Suiza,237662,15000000,15,11,1.364,10.74,15000000
+Dan Ndoye,Delantero,Suiza,365108,32000000,14,7,2.0,15.35,32000000
+Christian Fassnacht,Delantero,Suiza,250490,2000000,15,14,1.071,8.54,2000000
+Ruben Vargas,Delantero,Suiza,345886,12000000,15,9,1.667,12.97,12000000
+Noah Okafor,Delantero,Suiza,346890,25000000,15,8,1.875,14.47,25000000
+Zeki Amdouni,Delantero,Suiza,548729,7000000,7,7,1.0,8.0,7000000
+Cédric Itten,Delantero,Suiza,243856,1800000,12,11,1.091,8.69,1800000
+Alisson Becker,Portero,Brasil,105470,15000000,15,15,1.0,8.0,15000000
+Weverton,Portero,Brasil,69400,700000,1,20,0.05,0.42,700000
+Ederson Moraes,Portero,Brasil,238223,10000000,15,14,1.071,8.54,10000000
+Gabriel Magalhães,Defensa,Brasil,435338,75000000,9,10,0.9,7.23,75000000
+Marquinhos,Defensa,Brasil,181767,28000000,15,14,1.071,8.54,28000000
+Alex Sandro,Defensa,Brasil,79960,1000000,15,17,0.882,7.09,1000000
+Danilo Luiz da Silva,Defensa,Brasil,145707,2000000,15,16,0.938,7.52,2000000
+Bremer,Defensa,Brasil,516716,35000000,13,11,1.182,9.38,35000000
+Léo Pereira,Defensa,Brasil,288431,12000000,6,12,0.5,4.08,12000000
+Douglas Santos,Defensa,Brasil,220793,7500000,6,14,0.429,3.51,7500000
+Roger Ibáñez,Defensa,Brasil,524481,18000000,6,9,0.667,5.41,18000000
+Éderson dos Santos,Mediocampista,Brasil,607854,45000000,4,8,0.5,4.08,45000000
+Casemiro,Mediocampista,Brasil,16306,6000000,12,16,0.75,6.06,6000000
+Bruno Guimarães,Mediocampista,Brasil,520624,70000000,4,10,0.4,3.28,70000000
+Fabinho,Mediocampista,Brasil,225693,12000000,12,14,0.857,6.89,12000000
+Danilo dos Santos de Oliveira,Mediocampista,Brasil,808509,32000000,8,7,1.143,9.09,32000000
+Lucas Paquetá,Mediocampista,Brasil,444523,32000000,9,10,0.9,7.23,32000000
+Vinícius Júnior,Delantero,Brasil,371998,140000000,10,7,1.429,11.23,140000000
+Matheus Cunha,Delantero,Brasil,517894,75000000,15,9,1.667,12.97,75000000
+Neymar Jr.,Delantero,Brasil,68290,8000000,15,16,0.938,7.52,8000000
+Raphinha,Delantero,Brasil,411295,70000000,15,11,1.364,10.74,70000000
+Endrick,Delantero,Brasil,971570,40000000,2,1,2.0,15.35,40000000
+Luiz Henrique,Delantero,Brasil,800175,24000000,3,7,0.429,3.51,24000000
+Gabriel Martinelli,Delantero,Brasil,655488,45000000,10,7,1.429,11.23,45000000
+Igor Thiago,Delantero,Brasil,739443,65000000,5,6,0.833,6.71,65000000
+Rayan,Delantero,Brasil,607223,90000000,3,4,0.75,6.06,90000000
+David Raya,Portero,España,262749,30000000,2,12,0.167,1.38,30000000
+Joan García,Portero,España,561613,45000000,2,7,0.286,2.36,45000000
+Unai Simón,Portero,España,262396,22000000,5,11,0.455,3.72,22000000
+Marc Pubill,Defensa,España,844637,35000000,2,4,0.5,4.08,35000000
+Alejandro Grimaldo,Defensa,España,193082,20000000,15,12,1.25,9.89,20000000
+Eric García,Defensa,España,466794,40000000,15,7,2.143,16.35,40000000
+Pedro Porro,Defensa,España,553875,35000000,13,8,1.625,12.66,35000000
+Aymeric Laporte,Defensa,España,176553,8000000,15,14,1.071,8.54,8000000
+Pau Cubarsí,Defensa,España,962110,80000000,1,1,1.0,8.0,80000000
+Marc Cucurella,Defensa,España,284857,50000000,7,9,0.778,6.28,50000000
+Marcos Llorente,Mediocampista,España,282411,20000000,11,13,0.846,6.81,20000000
+Mikel Merino,Mediocampista,España,338424,25000000,15,11,1.364,10.74,25000000
+Fabián Ruiz,Mediocampista,España,350219,30000000,15,12,1.25,9.89,30000000
+Gavi,Mediocampista,España,646740,30000000,7,3,2.333,17.67,30000000
+Dani Olmo,Mediocampista,España,293385,60000000,14,10,1.4,11.01,60000000
+Álex Baena,Mediocampista,España,548111,40000000,6,6,1.0,8.0,40000000
+Rodri Hernández,Mediocampista,España,357565,50000000,10,11,0.909,7.3,50000000
+Martín Zubimendi,Mediocampista,España,423440,75000000,6,9,0.667,5.41,75000000
+Pedri,Mediocampista,España,683840,150000000,14,5,2.8,20.81,150000000
+Ferran Torres,Delantero,España,398184,50000000,10,8,1.25,9.89,50000000
+Yeremy Pino,Delantero,España,568157,30000000,5,5,1.0,8.0,30000000
+Nico Williams,Delantero,España,709187,40000000,15,5,3.0,22.12,40000000
+Lamine Yamal,Delantero,España,937958,200000000,10,1,10.0,56.54,200000000
+Mikel Oyarzabal,Delantero,España,351478,25000000,11,11,1.0,8.0,25000000
+Víctor Muñoz,Delantero,España,935231,30000000,0,4,0.0,0.0,30000000
+Borja Iglesias,Delantero,España,278359,2800000,5,15,0.333,2.74,2800000
+Ørjan Nyland,Portero,Noruega,73517,800000,5,17,0.294,2.42,800000
+Sander Tangvik,Portero,Noruega,549378,3000000,2,5,0.4,3.28,3000000
+Egil Selvik,Portero,Noruega,380744,1500000,1,10,0.1,0.83,1500000
+Kristoffer Ajer,Defensa,Noruega,328658,18000000,15,10,1.5,11.75,18000000
+Leo Østigård,Defensa,Noruega,367284,13000000,10,8,1.25,9.89,13000000
+David Møller Wolfe,Defensa,Noruega,661427,8000000,0,6,0.0,0.0,8000000
+Fredrik André Bjørkan,Defensa,Noruega,364938,3500000,4,9,0.444,3.63,3500000
+Marcus Holmgren Pedersen,Defensa,Noruega,583404,3500000,13,7,1.857,14.34,3500000
+Torbjørn Heggem,Defensa,Noruega,464469,13000000,2,9,0.222,1.83,13000000
+Sondre Langås,Defensa,Noruega,737837,4000000,2,7,0.286,2.36,4000000
+Henrik Falchener,Defensa,Noruega,743088,6000000,0,5,0.0,0.0,6000000
+Morten Thorsby,Mediocampista,Noruega,226524,2800000,11,12,0.917,7.36,2800000
+Patrick Berg,Mediocampista,Noruega,308439,8000000,7,10,0.7,5.67,8000000
+Sander Berge,Mediocampista,Noruega,333014,25000000,11,10,1.1,8.76,25000000
+Martin Ødegaard,Mediocampista,Noruega,316264,65000000,15,9,1.667,12.97,65000000
+Fredrik Aursnes,Mediocampista,Noruega,223367,15000000,7,12,0.583,4.74,15000000
+Kristian Thorstvedt,Mediocampista,Noruega,564785,12000000,7,9,0.778,6.28,12000000
+Thelo Aasgaard,Mediocampista,Noruega,647384,2800000,1,6,0.167,1.38,2800000
+Andreas Schjelderup,Mediocampista,Noruega,670103,30000000,1,4,0.25,2.06,30000000
+Oscar Bobb,Mediocampista,Noruega,661207,28000000,3,4,0.75,6.06,28000000
+Jens Petter Hauge,Mediocampista,Noruega,422355,12000000,6,8,0.75,6.06,12000000
+Alexander Sørloth,Delantero,Noruega,238407,18000000,10,12,0.833,6.71,18000000
+Erling Haaland,Delantero,Noruega,418560,200000000,15,7,2.143,16.35,200000000
+Jørgen Strand Larsen,Delantero,Noruega,429983,40000000,6,8,0.75,6.06,40000000
+Antonio Nusa,Delantero,Noruega,894914,32000000,8,3,2.667,19.93,32000000
+Julian Ryerson,Delantero,Noruega,370789,25000000,15,10,1.5,11.75,25000000
+Mouhib Chamakh,Portero,Túnez,584250,800000,0,6,0.0,0.0,800000
+Aymen Dahmen,Portero,Túnez,569433,800000,4,11,0.364,2.99,800000
+Sabri Ben Hessen,Portero,Túnez,295381,550000,1,12,0.083,0.69,550000
+Ali Abdi,Defensa,Túnez,211474,2000000,7,14,0.5,4.08,2000000
+Montassar Talbi,Defensa,Túnez,496706,8000000,13,10,1.3,10.27,8000000
+Omar Rekik,Defensa,Túnez,578292,500000,2,6,0.333,2.74,500000
+Adem Arous,Defensa,Túnez,1071742,4000000,0,3,0.0,0.0,4000000
+Dylan Bronn,Defensa,Túnez,450417,600000,8,12,0.667,5.41,600000
+Mortadha Ben Ouanes,Defensa,Túnez,230921,1500000,10,13,0.769,6.21,1500000
+Yan Valery,Defensa,Túnez,406008,1500000,5,9,0.556,4.53,1500000
+Mohamed Amine Ben Hamida,Defensa,Túnez,454495,1000000,1,12,0.083,0.69,1000000
+Moutaz Neffati,Defensa,Túnez,1034598,1200000,0,3,0.0,0.0,1200000
+Raed Chikhaoui,Defensa,Túnez,1075790,600000,0,4,0.0,0.0,600000
+Hannibal Mejbri,Mediocampista,Túnez,607224,15000000,2,5,0.4,3.28,15000000
+Ismaël Gharbi,Mediocampista,Túnez,810096,5000000,2,4,0.5,4.08,5000000
+Rani Khedira,Mediocampista,Túnez,124410,2000000,13,14,0.929,7.45,2000000
+Khalil Ayari,Mediocampista,Túnez,1198342,1000000,0,3,0.0,0.0,1000000
+Hadj Mahmoud,Mediocampista,Túnez,673513,2000000,10,8,1.25,9.89,2000000
+Ellyes Skhiri,Mediocampista,Túnez,290587,5000000,12,13,0.923,7.4,5000000
+Anis Ben Slimane,Mediocampista,Túnez,546712,4000000,1,7,0.143,1.18,4000000
+Sebastian Tounekti,Mediocampista,Túnez,539677,5000000,0,5,0.0,0.0,5000000
+Elias Achouri,Delantero,Túnez,645589,3000000,11,9,1.222,9.68,3000000
+Elias Saad,Delantero,Túnez,526466,2000000,8,8,1.0,8.0,2000000
+Hazem Mastouri,Delantero,Túnez,953150,900000,0,11,0.0,0.0,900000
+Rayan Elloumi,Delantero,Túnez,1273985,800000,0,1,0.0,0.0,800000
+Firas Chaouat,Delantero,Túnez,402087,1200000,0,12,0.0,0.0,1200000
+Dayne St. Clair,Portero,Canadá,439750,3500000,1,11,0.091,0.76,3500000
+Maxime Crépeau,Portero,Canadá,189014,1800000,6,14,0.429,3.51,1800000
+Owen Goodman,Portero,Canadá,814848,550000,1,4,0.25,2.06,550000
+Alistair Johnston,Defensa,Canadá,637446,8000000,4,9,0.444,3.63,8000000
+Alfie Jones,Defensa,Canadá,340990,6000000,6,10,0.6,4.88,6000000
+Luc de Fougerolles,Defensa,Canadá,921995,1000000,4,2,2.0,15.35,1000000
+Joel Waterman,Defensa,Canadá,441738,2000000,2,12,0.167,1.38,2000000
+Derek Cornelius,Defensa,Canadá,328609,2500000,3,10,0.3,2.47,2500000
+Moïse Bombito,Defensa,Canadá,1089202,7000000,6,8,0.75,6.06,7000000
+Alphonso Davies,Defensa,Canadá,424204,40000000,15,7,2.143,16.35,40000000
+Richie Laryea,Defensa,Canadá,417348,1000000,4,13,0.308,2.53,1000000
+Niko Sigur,Defensa,Canadá,1045375,4000000,0,4,0.0,0.0,4000000
+Mathieu Choinière,Mediocampista,Canadá,589006,800000,4,9,0.444,3.63,800000
+Stephen Eustáquio,Mediocampista,Canadá,512913,6000000,7,11,0.636,5.16,6000000
+Ismaël Koné,Mediocampista,Canadá,921655,25000000,3,6,0.5,4.08,25000000
+Liam Millar,Mediocampista,Canadá,487417,3000000,5,8,0.625,5.08,3000000
+Jacob Shaffelburg,Mediocampista,Canadá,637632,2500000,4,8,0.5,4.08,2500000
+Jonathan Osorio,Mediocampista,Canadá,260807,1000000,11,16,0.688,5.57,1000000
+Nathan Saliba,Mediocampista,Canadá,842420,7500000,2,4,0.5,4.08,7500000
+Cyle Larin,Delantero,Canadá,343463,2500000,9,13,0.692,5.6,2500000
+Jonathan David,Delantero,Canadá,533738,30000000,3,8,0.375,3.08,30000000
+Tani Oluwaseyi,Delantero,Canadá,972465,7000000,1,8,0.125,1.04,7000000
+Tajon Buchanan,Delantero,Canadá,638793,12000000,8,9,0.889,7.14,12000000
+Ali Ahmed,Delantero,Canadá,995642,5000000,4,7,0.571,4.65,5000000
+Promise David,Delantero,Canadá,888785,17000000,2,6,0.333,2.74,17000000
+Jayden Nelson,Delantero,Canadá,635445,2000000,6,5,1.2,9.52,2000000
+Brice Samba,Portero,Francia,191056,7000000,1,14,0.071,0.59,7000000
+Mike Maignan,Portero,Francia,182906,20000000,13,12,1.083,8.63,20000000
+Robin Risser,Portero,Francia,743515,30000000,1,3,0.333,2.74,30000000
+Malo Gusto,Defensa,Francia,620322,35000000,15,5,3.0,22.12,35000000
+Lucas Digne,Defensa,Francia,126664,6000000,15,14,1.071,8.54,6000000
+Dayot Upamecano,Defensa,Francia,344695,70000000,15,9,1.667,12.97,70000000
+Jules Koundé,Defensa,Francia,411975,60000000,8,9,0.889,7.14,60000000
+Ibrahima Konaté,Defensa,Francia,357119,45000000,15,9,1.667,12.97,45000000
+William Saliba,Defensa,Francia,495666,100000000,10,7,1.429,11.23,100000000
+Théo Hernández,Defensa,Francia,339808,20000000,15,10,1.5,11.75,20000000
+Lucas Hernández,Defensa,Francia,281963,18000000,15,12,1.25,9.89,18000000
+Maxence Lacroix,Defensa,Francia,434224,50000000,3,8,0.375,3.08,50000000
+Manu Koné,Mediocampista,Francia,624690,50000000,15,7,2.143,16.35,50000000
+Aurélien Tchouaméni,Mediocampista,Francia,413112,70000000,12,8,1.5,11.75,70000000
+N'Golo Kanté,Mediocampista,Francia,225083,4000000,15,17,0.882,7.09,4000000
+Adrien Rabiot,Mediocampista,Francia,182913,18000000,15,13,1.154,9.17,18000000
+Warren Zaïre-Emery,Mediocampista,Francia,810092,80000000,5,2,2.5,18.81,80000000
+Rayan Cherki,Mediocampista,Francia,607223,90000000,3,4,0.75,6.06,90000000
+Maghnes Akliouche,Mediocampista,Francia,745200,50000000,5,6,0.833,6.71,50000000
+Ousmane Dembélé,Delantero,Francia,288230,100000000,15,11,1.364,10.74,100000000
+Marcus Thuram,Delantero,Francia,318528,50000000,15,10,1.5,11.75,50000000
+Kylian Mbappé,Delantero,Francia,342229,180000000,15,9,1.667,12.97,180000000
+Michael Olise,Delantero,Francia,566723,150000000,4,6,0.667,5.41,150000000
+Bradley Barcola,Delantero,Francia,708265,70000000,5,5,1.0,8.0,70000000
+Désiré Doué,Delantero,Francia,914562,120000000,9,3,3.0,22.12,120000000
+Jean-Philippe Mateta,Delantero,Francia,420002,30000000,4,10,0.4,3.28,30000000
+Bart Verbruggen,Portero,Países Bajos,565093,40000000,2,5,0.4,3.28,40000000
+Robin Roefs,Portero,Países Bajos,646991,28000000,3,5,0.6,4.88,28000000
+Mark Flekken,Portero,Países Bajos,125714,6000000,12,15,0.8,6.45,6000000
+Lutsharel Geertruida,Defensa,Países Bajos,420210,20000000,10,7,1.429,11.23,20000000
+Virgil van Dijk,Defensa,Países Bajos,139208,15000000,15,16,0.938,7.52,15000000
+Nathan Aké,Defensa,Países Bajos,177476,12000000,15,13,1.154,9.17,12000000
+Jan Paul van Hecke,Defensa,Países Bajos,576314,45000000,5,8,0.625,5.08,45000000
+Mats Wieffer,Defensa,Países Bajos,415381,25000000,10,8,1.25,9.89,25000000
+Micky van de Ven,Defensa,Países Bajos,557459,50000000,13,7,1.857,14.34,50000000
+Denzel Dumfries,Defensa,Países Bajos,321528,25000000,10,12,0.833,6.71,25000000
+Jorrel Hato,Defensa,Países Bajos,904802,40000000,1,2,0.5,4.08,40000000
+Marten de Roon,Mediocampista,Países Bajos,133179,3200000,13,17,0.765,6.18,3200000
+Justin Kluivert,Mediocampista,Países Bajos,330659,25000000,14,9,1.556,12.16,25000000
+Ryan Gravenberch,Mediocampista,Países Bajos,478573,80000000,7,6,1.167,9.27,80000000
+Tijjani Reijnders,Mediocampista,Países Bajos,460939,50000000,1,9,0.111,0.92,50000000
+Guus Til,Mediocampista,Países Bajos,372267,15000000,7,10,0.7,5.67,15000000
+Teun Koopmeiners,Mediocampista,Países Bajos,360518,14000000,12,10,1.2,9.52,14000000
+Frenkie de Jong,Mediocampista,Países Bajos,326330,35000000,15,11,1.364,10.74,35000000
+Quinten Timber,Mediocampista,Países Bajos,420213,25000000,13,7,1.857,14.34,25000000
+Wout Weghorst,Delantero,Países Bajos,228645,2000000,15,15,1.0,8.0,2000000
+Memphis Depay,Delantero,Países Bajos,167850,7000000,15,14,1.071,8.54,7000000
+Cody Gakpo,Delantero,Países Bajos,434675,60000000,13,9,1.444,11.34,60000000
+Noa Lang,Delantero,Países Bajos,339332,22000000,15,9,1.667,12.97,22000000
+Donyell Malen,Delantero,Países Bajos,326029,45000000,11,9,1.222,9.68,45000000
+Brian Brobbey,Delantero,Países Bajos,473169,30000000,15,6,2.5,18.81,30000000
+Crysencio Summerville,Delantero,Países Bajos,474701,35000000,7,6,1.167,9.27,35000000
+Sergio Rochet,Portero,Uruguay,264014,1800000,12,15,0.8,6.45,1800000
+Santiago Mele,Portero,Uruguay,320739,2000000,1,10,0.1,0.83,2000000
+Fernando Muslera,Portero,Uruguay,58088,700000,15,22,0.682,5.52,700000
+José María Giménez,Defensa,Uruguay,250845,9000000,15,13,1.154,9.17,9000000
+Sebastián Cáceres,Defensa,Uruguay,532389,4500000,9,8,1.125,8.95,4500000
+Ronald Araújo,Defensa,Uruguay,480267,20000000,15,9,1.667,12.97,20000000
+Guillermo Varela,Defensa,Uruguay,188862,1000000,15,15,1.0,8.0,1000000
+Mathías Olivera,Defensa,Uruguay,376514,15000000,15,10,1.5,11.75,15000000
+Matías Viña,Defensa,Uruguay,439072,3500000,12,10,1.2,9.52,3500000
+Santiago Bueno,Defensa,Uruguay,438001,10000000,9,9,1.0,8.0,10000000
+Manuel Ugarte,Mediocampista,Uruguay,476701,25000000,7,7,1.0,8.0,25000000
+Rodrigo Bentancur,Mediocampista,Uruguay,354362,20000000,13,10,1.3,10.27,20000000
+Nicolás de la Cruz,Mediocampista,Uruguay,397458,8000000,15,11,1.364,10.74,8000000
+Federico Valverde,Mediocampista,Uruguay,369081,90000000,15,9,1.667,12.97,90000000
+Giorgian de Arrascaeta,Mediocampista,Uruguay,248410,14000000,15,14,1.071,8.54,14000000
+Agustín Canobbio,Mediocampista,Uruguay,457533,8000000,9,9,1.0,8.0,8000000
+Emiliano Martínez,Mediocampista,Uruguay,111873,12000000,8,15,0.533,4.34,12000000
+Maximiliano Araújo,Mediocampista,Uruguay,572675,35000000,3,8,0.375,3.08,35000000
+Joaquín Piquerez,Mediocampista,Uruguay,496268,12000000,14,9,1.556,12.16,12000000
+Juan Manuel Sanabria,Mediocampista,Uruguay,446106,4000000,3,8,0.375,3.08,4000000
+Rodrigo Zalazar,Mediocampista,Uruguay,606752,30000000,9,8,1.125,8.95,30000000
+Darwin Núñez,Delantero,Uruguay,546543,20000000,15,8,1.875,14.47,20000000
+Facundo Pellistri,Delantero,Uruguay,676318,5000000,15,6,2.5,18.81,5000000
+Brian Rodríguez,Delantero,Uruguay,465818,8000000,6,8,0.75,6.06,8000000
+Rodrigo Aguirre,Delantero,Uruguay,189410,2300000,14,13,1.077,8.58,2300000
+Federico Viñas,Delantero,Uruguay,578419,4000000,6,9,0.667,5.41,4000000
+Mahmud Abunada,Portero,Catar,669629,400000,0,8,0.0,0.0,400000
+Salah Zakaria,Portero,Catar,632912,400000,2,9,0.222,1.83,400000
+Meshaal Barsham,Portero,Catar,560423,700000,0,10,0.0,0.0,700000
+Pedro Miguel,Defensa,Catar,228727,150000,2,17,0.118,0.98,150000
+Lucas Mendes,Defensa,Catar,83983,350000,3,17,0.176,1.46,350000
+Issa Laye,Defensa,Catar,272622,8000000,14,11,1.273,10.07,8000000
+Jassem Gaber,Defensa,Catar,735813,500000,2,6,0.333,2.74,500000
+Ayoub Al-Oui,Defensa,Catar,1054631,375000,0,3,0.0,0.0,375000
+Homam Ahmed,Defensa,Catar,556713,500000,1,8,0.125,1.04,500000
+Boualem Khoukhi,Defensa,Catar,222669,200000,0,17,0.0,0.0,200000
+Sultan Al-Brake,Defensa,Catar,336665,300000,2,12,0.167,1.38,300000
+Al-Hashmi Al-Hussain,Defensa,Catar,943150,250000,0,4,0.0,0.0,250000
+Abdulaziz Hatem,Mediocampista,Catar,113915,250000,0,17,0.0,0.0,250000
+Karim Boudiaf,Mediocampista,Catar,222385,175000,0,17,0.0,0.0,175000
+Ahmed Al-Ganehi,Mediocampista,Catar,670659,500000,4,7,0.571,4.65,500000
+Ahmed Fatehi,Mediocampista,Catar,251183,250000,1,15,0.067,0.56,250000
+Assim Madibo,Mediocampista,Catar,336667,350000,2,11,0.182,1.51,350000
+Ahmed Alaaeldin,Delantero,Catar,187987,300000,0,15,0.0,0.0,300000
+Edmilson Junior,Delantero,Catar,237846,1800000,6,13,0.462,3.78,1800000
+Mohammed Muntari,Delantero,Catar,266935,200000,3,14,0.214,1.77,200000
+Hassan Al-Haydos,Delantero,Catar,86286,300000,1,17,0.059,0.49,300000
+Akram Afif,Delantero,Catar,336646,8000000,2,11,0.182,1.51,8000000
+Yusuf Abdurisag,Delantero,Catar,589099,275000,0,8,0.0,0.0,275000
+Almoez Ali,Delantero,Catar,345095,2500000,2,11,0.182,1.51,2500000
+Tahsin Jamshid,Delantero,Catar,1143849,200000,0,2,0.0,0.0,200000
+Mohamed Manai,Delantero,Catar,822935,500000,0,5,0.0,0.0,500000
+Lawrence Ati-Zigi,Portero,Ghana,254285,1500000,2,11,0.182,1.51,1500000
+Joseph Anang,Portero,Ghana,576099,350000,1,8,0.125,1.04,350000
+Benjamin Asare,Portero,Ghana,837368,100000,0,15,0.0,0.0,100000
+Alidu Seidu,Defensa,Ghana,798404,6000000,4,8,0.5,4.08,6000000
+Jonas Adjetey,Defensa,Ghana,734676,6000000,3,4,0.75,6.06,6000000
+Abdul Mumin,Defensa,Ghana,451801,3000000,3,10,0.3,2.47,3000000
+Gideon Mensah,Defensa,Ghana,397171,4000000,11,9,1.222,9.68,4000000
+Baba Rahman,Defensa,Ghana,224884,2000000,15,13,1.154,9.17,2000000
+Jerome Opoku,Defensa,Ghana,408563,5000000,4,9,0.444,3.63,5000000
+Kojo Peprah Oppong,Defensa,Ghana,1113451,10000000,3,4,0.75,6.06,10000000
+Derrick Luckassen,Defensa,Ghana,241457,1000000,15,12,1.25,9.89,1000000
+Marvin Senaya,Defensa,Ghana,830890,3000000,2,7,0.286,2.36,3000000
+Caleb Yirenkyi,Mediocampista,Ghana,1240763,10000000,0,2,0.0,0.0,10000000
+Thomas Partey,Mediocampista,Ghana,230784,2000000,15,15,1.0,8.0,2000000
+Kwasi Sibo,Mediocampista,Ghana,538006,1400000,0,9,0.0,0.0,1400000
+Antoine Semenyo,Mediocampista,Ghana,583255,80000000,5,8,0.625,5.08,80000000
+Elisha Owusu,Mediocampista,Ghana,395695,4000000,8,10,0.8,6.45,4000000
+Augustine Boakye,Mediocampista,Ghana,579263,6000000,13,7,1.857,14.34,6000000
+Abdul Fatawu,Delantero,Ghana,864121,20000000,2,4,0.5,4.08,20000000
+Jordan Ayew,Delantero,Ghana,108354,1000000,2,16,0.125,1.04,1000000
+Brandon Thomas-Asante,Delantero,Ghana,451747,16000000,0,9,0.0,0.0,16000000
+Christopher Bonsu Baah,Delantero,Ghana,1119447,14000000,0,3,0.0,0.0,14000000
+Iñaki Williams,Delantero,Ghana,255508,8000000,10,14,0.714,5.78,8000000
+Kamaldeen Sulemana,Delantero,Ghana,746695,17000000,9,6,1.5,11.75,17000000
+Ernest Nuamah,Delantero,Ghana,955070,10000000,3,4,0.75,6.06,10000000
+Prince Kwabena Adu,Delantero,Ghana,734799,3000000,2,4,0.5,4.08,3000000
+Luis Mejía,Portero,Panamá,76715,150000,5,17,0.294,2.42,150000
+César Samudio,Portero,Panamá,865550,250000,0,14,0.0,0.0,250000
+Orlando Mosquera,Portero,Panamá,402979,700000,1,13,0.077,0.64,700000
+César Blackman,Defensa,Panamá,440383,2500000,5,10,0.5,4.08,2500000
+José Córdoba,Defensa,Panamá,698415,5000000,6,7,0.857,6.89,5000000
+Fidel Escobar,Defensa,Panamá,345716,350000,7,13,0.538,4.38,350000
+Edgardo Fariña,Defensa,Panamá,923177,900000,5,6,0.833,6.71,900000
+Jiovany Ramos,Defensa,Panamá,403809,450000,1,11,0.091,0.76,450000
+Eric Davis,Defensa,Panamá,121791,50000,9,17,0.529,4.31,50000
+Andrés Andrade,Defensa,Panamá,403808,2500000,6,9,0.667,5.41,2500000
+Michael Murillo,Defensa,Panamá,354482,7000000,11,12,0.917,7.36,7000000
+Roderick Miller,Defensa,Panamá,157154,175000,6,16,0.375,3.08,175000
+Jorge Gutiérrez,Defensa,Panamá,443379,800000,0,9,0.0,0.0,800000
+Cristian Martínez,Mediocampista,Panamá,419247,800000,1,11,0.091,0.76,800000
+José Rodríguez,Mediocampista,Panamá,165012,200000,6,13,0.462,3.78,200000
+Adalberto Carrasquilla,Mediocampista,Panamá,375300,4000000,1,9,0.111,0.92,4000000
+Ismael Díaz,Mediocampista,Panamá,243298,1800000,4,11,0.364,2.99,1800000
+Yoel Bárcenas,Mediocampista,Panamá,283473,650000,2,14,0.143,1.18,650000
+Carlos Harvey,Mediocampista,Panamá,628806,600000,2,8,0.25,2.06,600000
+Alberto Quintero,Mediocampista,Panamá,126019,75000,7,20,0.35,2.87,75000
+Aníbal Godoy,Mediocampista,Panamá,161671,100000,7,18,0.389,3.19,100000
+César Yanis,Mediocampista,Panamá,741098,400000,1,12,0.083,0.69,400000
+Tomás Rodríguez,Delantero,Panamá,569205,1000000,1,9,0.111,0.92,1000000
+José Fajardo,Delantero,Panamá,546803,550000,1,14,0.071,0.59,550000
+Cecilio Waterman,Delantero,Panamá,177064,250000,8,17,0.471,3.85,250000
+Azarias Londoño,Delantero,Panamá,860998,1000000,3,6,0.5,4.08,1000000
+Utkir Yusupov,Portero,Uzbekistán,311958,500000,1,17,0.059,0.49,500000
+Abduvohid Nematov,Portero,Uzbekistán,527866,1500000,0,7,0.0,0.0,1500000
+Botirali Ergashev,Portero,Uzbekistán,312690,500000,0,12,0.0,0.0,500000
+Abdukodir Khusanov,Defensa,Uzbekistán,763079,50000000,2,4,0.5,4.08,50000000
+Khojiakbar Alijonov,Defensa,Uzbekistán,492558,1300000,1,11,0.091,0.76,1300000
+Farrukh Sayfiev,Defensa,Uzbekistán,212499,225000,0,17,0.0,0.0,225000
+Rustam Ashurmatov,Defensa,Uzbekistán,288883,750000,1,11,0.091,0.76,750000
+Sherzod Nasrullaev,Defensa,Uzbekistán,608537,1200000,1,9,0.111,0.92,1200000
+Umar Eshmurodov,Defensa,Uzbekistán,493725,450000,0,15,0.0,0.0,450000
+Abdulla Abdullaev,Defensa,Uzbekistán,570272,500000,0,10,0.0,0.0,500000
+Bekhruz Karimov,Defensa,Uzbekistán,1106187,350000,2,1,2.0,15.35,350000
+Avazbek Ulmasaliev,Defensa,Uzbekistán,538764,500000,0,8,0.0,0.0,500000
+Jakhongir Urozov,Defensa,Uzbekistán,989069,600000,0,4,0.0,0.0,600000
+Akmal Mozgovoy,Mediocampista,Uzbekistán,562022,1400000,0,9,0.0,0.0,1400000
+Otabek Shukurov,Mediocampista,Uzbekistán,294525,1500000,2,11,0.182,1.51,1500000
+Jamshid Iskanderov,Mediocampista,Uzbekistán,260857,1000000,0,14,0.0,0.0,1000000
+Odiljon Hamrobekov,Mediocampista,Uzbekistán,288915,1000000,1,12,0.083,0.69,1000000
+Jaloliddin Masharipov,Mediocampista,Uzbekistán,274536,1000000,5,14,0.357,2.93,1000000
+Oston Urunov,Mediocampista,Uzbekistán,492556,2000000,15,7,2.143,16.35,2000000
+Dostonbek Khamdamov,Mediocampista,Uzbekistán,294502,900000,0,11,0.0,0.0,900000
+Azizjon Ganiev,Mediocampista,Uzbekistán,431911,2000000,2,10,0.2,1.65,2000000
+Abbosbek Fayzullaev,Mediocampista,Uzbekistán,754037,7000000,4,4,1.0,8.0,7000000
+Sherzod Esanov,Mediocampista,Uzbekistán,989068,450000,0,5,0.0,0.0,450000
+Eldor Shomurodov,Delantero,Uzbekistán,358166,7000000,5,12,0.417,3.42,7000000
+Azizbek Amonov,Delantero,Uzbekistán,517918,500000,0,10,0.0,0.0,500000
+Igor Sergeev,Delantero,Uzbekistán,185372,1200000,1,15,0.067,0.56,1200000
+Vozinha,Portero,Cabo Verde,242277,50000,1,22,0.045,0.37,50000
+Márcio Rosa,Portero,Cabo Verde,398048,350000,1,11,0.091,0.76,350000
+CJ Dos Santos,Portero,Cabo Verde,532096,1000000,1,7,0.143,1.18,1000000
+Stopíra,Defensa,Cabo Verde,80486,50000,1,20,0.05,0.42,50000
+Diney Borges,Defensa,Cabo Verde,349570,900000,0,13,0.0,0.0,900000
+Pico Lopes,Defensa,Cabo Verde,166158,250000,2,16,0.125,1.04,250000
+Logan Costa,Defensa,Cabo Verde,484988,15000000,1,7,0.143,1.18,15000000
+Sidny Lopes Cabral,Defensa,Cabo Verde,611855,4000000,5,5,1.0,8.0,4000000
+Steven Moreira,Defensa,Cabo Verde,203517,1500000,1,13,0.077,0.64,1500000
+Wagner Pina,Defensa,Cabo Verde,1072017,11000000,3,5,0.6,4.88,11000000
+Kelvin Pires,Defensa,Cabo Verde,662119,400000,0,8,0.0,0.0,400000
+Kevin Pina,Mediocampista,Cabo Verde,544586,5000000,2,11,0.182,1.51,5000000
+Jovane Cabral,Mediocampista,Cabo Verde,448466,1000000,11,10,1.1,8.76,1000000
+João Paulo,Mediocampista,Cabo Verde,33318,,0,37,0.0,0.0,0
+Jamiro Monteiro,Mediocampista,Cabo Verde,272930,650000,3,14,0.214,1.77,650000
+Garry Rodrigues,Mediocampista,Cabo Verde,170895,300000,15,17,0.882,7.09,300000
+Deroy Duarte,Mediocampista,Cabo Verde,432852,1800000,8,8,1.0,8.0,1800000
+Laros Duarte,Mediocampista,Cabo Verde,258513,1000000,7,11,0.636,5.16,1000000
+Yannick Semedo,Mediocampista,Cabo Verde,620307,250000,0,12,0.0,0.0,250000
+Willy Semedo,Mediocampista,Cabo Verde,531450,1000000,4,14,0.286,2.36,1000000
+Telmo Arcanjo,Mediocampista,Cabo Verde,791528,3000000,3,6,0.5,4.08,3000000
+Nuno Da Costa,Mediocampista,Cabo Verde,306166,400000,15,17,0.882,7.09,400000
+Hélio Varela,Mediocampista,Cabo Verde,840836,2500000,2,6,0.333,2.74,2500000
+Gilson Benchimol,Delantero,Cabo Verde,820252,1200000,4,6,0.667,5.41,1200000
+Dailon Livramento,Delantero,Cabo Verde,676411,800000,1,7,0.143,1.18,800000
+Ryan Mendes,Delantero,Cabo Verde,111627,200000,10,18,0.556,4.53,200000
+Matt Turner,Portero,Estados Unidos,425306,2500000,3,13,0.231,1.91,2500000
+Matt Freese,Portero,Estados Unidos,500309,2000000,2,9,0.222,1.83,2000000
+Chris Brady,Portero,Estados Unidos,765504,2500000,2,4,0.5,4.08,2500000
+Sergiño Dest,Defensa,Estados Unidos,361104,18000000,15,7,2.143,16.35,18000000
+Chris Richards,Defensa,Estados Unidos,578539,28000000,13,8,1.625,12.66,28000000
+Antonee Robinson,Defensa,Estados Unidos,349701,22000000,15,10,1.5,11.75,22000000
+Auston Trusty,Defensa,Estados Unidos,389253,6000000,0,9,0.0,0.0,6000000
+Miles Robinson,Defensa,Estados Unidos,468022,3500000,7,11,0.636,5.16,3500000
+Tim Ream,Defensa,Estados Unidos,145466,150000,7,20,0.35,2.87,150000
+Alex Freeman,Defensa,Estados Unidos,985806,3500000,0,3,0.0,0.0,3500000
+Maximilian Arfsten,Defensa,Estados Unidos,993063,5000000,0,7,0.0,0.0,5000000
+Mark McKenzie,Defensa,Estados Unidos,429259,7000000,7,9,0.778,6.28,7000000
+Joe Scally,Defensa,Estados Unidos,504153,7000000,3,5,0.6,4.88,7000000
+Tyler Adams,Mediocampista,Estados Unidos,332705,25000000,15,9,1.667,12.97,25000000
+Giovanni Reyna,Mediocampista,Estados Unidos,504215,4000000,15,5,3.0,22.12,4000000
+Weston McKennie,Mediocampista,Estados Unidos,332697,30000000,15,9,1.667,12.97,30000000
+Sebastian Berhalter,Mediocampista,Estados Unidos,734761,8000000,1,7,0.143,1.18,8000000
+Cristian Roldán,Mediocampista,Estados Unidos,354792,3500000,5,13,0.385,3.16,3500000
+Malik Tillman,Mediocampista,Estados Unidos,467437,30000000,15,6,2.5,18.81,30000000
+Ricardo Pepi,Delantero,Estados Unidos,627207,30000000,6,5,1.2,9.52,30000000
+Christian Pulisic,Delantero,Estados Unidos,315779,40000000,15,9,1.667,12.97,40000000
+Brenden Aaronson,Delantero,Estados Unidos,393323,22000000,2,7,0.286,2.36,22000000
+Haji Wright,Delantero,Estados Unidos,315291,16000000,11,10,1.1,8.76,16000000
+Folarin Balogun,Delantero,Estados Unidos,503770,40000000,8,6,1.333,10.51,40000000
+Timothy Weah,Delantero,Estados Unidos,370846,20000000,13,8,1.625,12.66,20000000
+Alejandro Zendejas,Delantero,Estados Unidos,351505,10000000,3,10,0.3,2.47,10000000
+Max Crocombe,Portero,Nueva Zelanda,207843,1000000,0,14,0.0,0.0,1000000
+Alex Paulsen,Portero,Nueva Zelanda,617009,500000,0,5,0.0,0.0,500000
+Michael Woud,Portero,Nueva Zelanda,350347,400000,5,9,0.556,4.53,400000
+Tim Payne,Defensa,Nueva Zelanda,149901,350000,9,14,0.643,5.22,350000
+Francis De Vries,Defensa,Nueva Zelanda,207061,600000,2,13,0.154,1.28,600000
+Tyler Bindon,Defensa,Nueva Zelanda,1007720,3500000,4,3,1.333,10.51,3500000
+Michael Boxall,Defensa,Nueva Zelanda,81723,150000,2,19,0.105,0.87,150000
+Liberato Cacace,Defensa,Nueva Zelanda,469211,2500000,3,7,0.429,3.51,2500000
+Nando Pijnaker,Defensa,Nueva Zelanda,455425,400000,7,9,0.778,6.28,400000
+Finn Surman,Defensa,Nueva Zelanda,724809,1800000,1,4,0.25,2.06,1800000
+Callan Elliot,Defensa,Nueva Zelanda,482204,450000,0,8,0.0,0.0,450000
+Tommy Smith,Defensa,Nueva Zelanda,176056,,0,7,0.0,0.0,0
+Joe Bell,Mediocampista,Nueva Zelanda,345700,3500000,0,9,0.0,0.0,3500000
+Marko Stamenic,Mediocampista,Nueva Zelanda,617018,3000000,5,6,0.833,6.71,3000000
+Sarpreet Singh,Mediocampista,Nueva Zelanda,350357,500000,7,9,0.778,6.28,500000
+Elijah Just,Mediocampista,Nueva Zelanda,485672,2500000,0,8,0.0,0.0,2500000
+Alex Rufer,Mediocampista,Nueva Zelanda,256019,600000,5,12,0.417,3.42,600000
+Ben Old,Mediocampista,Nueva Zelanda,617021,1800000,3,5,0.6,4.88,1800000
+Callum McCowatt,Mediocampista,Nueva Zelanda,400797,2500000,1,9,0.111,0.92,2500000
+Ryan Thomas,Mediocampista,Nueva Zelanda,203357,650000,15,13,1.154,9.17,650000
+Lachlan Bayliss,Mediocampista,Nueva Zelanda,1109358,550000,1,5,0.2,1.65,550000
+Logan Rogerson,Delantero,Nueva Zelanda,312317,400000,6,10,0.6,4.88,400000
+Chris Wood,Delantero,Nueva Zelanda,108725,5000000,15,16,0.938,7.52,5000000
+Kosta Barbarouses,Delantero,Nueva Zelanda,50200,300000,6,18,0.333,2.74,300000
+Ben Waine,Delantero,Nueva Zelanda,539502,400000,0,7,0.0,0.0,400000
+Jesse Randall,Delantero,Nueva Zelanda,677509,900000,0,5,0.0,0.0,900000
+Mert Günok,Portero,Turquía,51894,500000,15,19,0.789,6.36,500000
+Altay Bayındır,Portero,Turquía,336077,5000000,10,10,1.0,8.0,5000000
+Uğurcan Çakır,Portero,Turquía,292199,15000000,15,12,1.25,9.89,15000000
+Zeki Çelik,Defensa,Turquía,251075,14000000,11,11,1.0,8.0,14000000
+Merih Demiral,Defensa,Turquía,340879,12000000,15,10,1.5,11.75,12000000
+Çağlar Söyüncü,Defensa,Turquía,320141,3500000,15,12,1.25,9.89,3500000
+Eren Elmalı,Defensa,Turquía,616894,5000000,7,7,1.0,8.0,5000000
+Abdülkerim Bardakcı,Defensa,Turquía,199316,6500000,14,13,1.077,8.58,6500000
+Ozan Kabak,Defensa,Turquía,361260,15000000,15,8,1.875,14.47,15000000
+Mert Müldür,Defensa,Turquía,353922,7000000,7,9,0.778,6.28,7000000
+Ferdi Kadıoğlu,Defensa,Turquía,369316,35000000,15,8,1.875,14.47,35000000
+Samet Akaydin,Defensa,Turquía,295024,1200000,12,14,0.857,6.89,1200000
+Salih Özcan,Mediocampista,Turquía,244940,3500000,12,10,1.2,9.52,3500000
+Orkun Kökçü,Mediocampista,Turquía,454567,25000000,12,7,1.714,13.31,25000000
+Hakan Çalhanoğlu,Mediocampista,Turquía,126414,16000000,15,14,1.071,8.54,16000000
+İsmail Yüksek,Mediocampista,Turquía,613725,15000000,15,9,1.667,12.97,15000000
+Kaan Ayhan,Mediocampista,Turquía,119031,1500000,15,13,1.154,9.17,1500000
+Kerem Aktürkoğlu,Delantero,Turquía,382528,20000000,8,9,0.889,7.14,20000000
+Arda Güler,Delantero,Turquía,861410,90000000,10,3,3.333,24.25,90000000
+Deniz Gül,Delantero,Turquía,1063292,5000000,1,3,0.333,2.74,5000000
+Kenan Yıldız,Delantero,Turquía,845654,75000000,7,3,2.333,17.67,75000000
+İrfan Can Kahveci,Delantero,Turquía,216603,3000000,15,12,1.25,9.89,3000000
+Yunus Akgün,Delantero,Turquía,396908,18000000,12,7,1.714,13.31,18000000
+Barış Alper Yılmaz,Delantero,Turquía,541537,30000000,4,8,0.5,4.08,30000000
+Oğuz Aydın,Delantero,Turquía,563749,7000000,4,7,0.571,4.65,7000000
+Can Uzun,Delantero,Turquía,816585,45000000,9,2,4.5,31.27,45000000
