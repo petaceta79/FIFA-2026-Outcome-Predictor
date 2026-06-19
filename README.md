@@ -289,3 +289,5 @@ Por otro lado, las selecciones con mayor probabilidad de **proclamarse campeonas
 > Francia · Inglaterra · Portugal · España
 
 ...con una ventaja significativa respecto al resto.
+
+Los gráficos generados están en sus carpetas correspondientes
