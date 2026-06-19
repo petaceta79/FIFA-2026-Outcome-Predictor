@@ -124,15 +124,17 @@ Este valor representa la fuerza global de la selección en esa simulación concr
 
 En la versión más realista del simulador, los partidos no se deciden directamente, sino mediante simulación de goles.
 
-p_A = Puntuación de la selección A
-p_B = Puntuación de la selección B
+Donde:
+- `p_A` = Puntuación de la selección A
+- `p_B` = Puntuación de la selección B
 
 Cada equipo recibe una tasa esperada de goles (λ):
 
-$$\lambda_A = base \times \frac{p_A}{p_A + p_B}$$
-$$\lambda_B = base \times \frac{p_B}{p_A + p_B}$$
+$$\lambda_A = base \times \frac{p_A^{1.3}}{p_A^{1.3} + p_B^{1.3}}$$
+$$\lambda_B = base \times \frac{p_B^{1.3}}{p_A^{1.3} + p_B^{1.3}}$$
 
 Donde `base` ≈ media de goles por equipo por partido.
+El exponente `1.3` amplifica diferencias entre equipos fuertes y débiles.
 
 Los goles se generan como:
 
@@ -140,6 +142,51 @@ $$\text{goles}_A \sim \text{Poisson}(\lambda_A)$$
 $$\text{goles}_B \sim \text{Poisson}(\lambda_B)$$
 
 La distribución de Poisson se usa porque modela procesos de conteo de eventos raros en un intervalo fijo (en este caso, goles en un partido).
+
+#### El exponente 1.3: un hiperparámetro
+
+El exponente `1.3` presente en la función pitagórica **no proviene de ninguna teoría matemática específica ni de la distribución de Poisson**. Es un hiperparámetro elegido manualmente cuya función es controlar cuánto se amplifican las diferencias de calidad entre selecciones.
+
+**Sin exponente** (`exp = 1`), si un equipo dobla en poder al rival:
+
+```
+A = 100, B = 50
+100 / (100 + 50) = 0.667  →  A recibe el 66.7% de los goles esperados
+ 50 / (100 + 50) = 0.333  →  B recibe el 33.3% de los goles esperados
+```
+
+**Con exponente 1.3**, las diferencias se amplifican:
+
+```
+100^1.3 ≈ 398
+ 50^1.3 ≈ 162
+
+398 / (398 + 162) = 0.711  →  A recibe el 71.1% de los goles esperados
+162 / (398 + 162) = 0.289  →  B recibe el 28.9% de los goles esperados
+```
+
+**¿Por qué precisamente 1.3?** La respuesta honesta es: porque es un valor razonable que produce resultados plausibles. Modelos como Elo, Pythagorean Expectation o Bradley-Terry incluyen parámetros similares ajustados empíricamente para que las probabilidades simuladas se aproximen a los resultados reales.
+
+La forma correcta de obtener ese exponente sería **calibrarlo** sobre datos históricos:
+
+1. Reunir miles de partidos internacionales históricos.
+2. Calcular el poder de cada selección antes de cada partido.
+3. Probar distintos exponentes y evaluar cuál minimiza el error de predicción.
+
+Por ejemplo, usando **Log Loss**, **Brier Score** o **error cuadrático medio**:
+
+```
+exp = 1.0  →  error 0.223
+exp = 1.1  →  error 0.217
+exp = 1.2  →  error 0.211
+exp = 1.3  →  error 0.208  ✓ mejor resultado
+exp = 1.4  →  error 0.210
+exp = 1.5  →  error 0.216
+```
+
+En ese caso, se elegiría `1.3` porque es el que mejor predice los partidos históricos.
+
+En mi caso he optado por 1.3 por tema de recursos y tiempo dado que viendo algunos ejemplos ha sido una buena aproximación.
 
 #### Determinación del resultado
 
