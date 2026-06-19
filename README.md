@@ -14,8 +14,7 @@
    - 3.2 [Once ideal](#32-once-ideal)
    - 3.3 [Poder del equipo](#33-poder-del-equipo)
 4. [Simulación de partidos](#4-simulación-de-partidos)
-   - 4.1 [Conversión a probabilidad](#41-conversión-a-probabilidad)
-   - 4.2 [Modelo de Poisson (goles)](#42-modelo-de-poisson-goles)
+   - 4.1 [Modelo de Poisson (goles)](#42-modelo-de-poisson-goles)
 5. [Fase de grupos](#5-fase-de-grupos)
 6. [Fase eliminatoria](#6-fase-eliminatoria)
 7. [Simulación Monte Carlo](#7-simulación-monte-carlo)
@@ -121,15 +120,7 @@ Este valor representa la fuerza global de la selección en esa simulación concr
 
 ## 4. Simulación de partidos
 
-### 4.1 Conversión a probabilidad
-
-La fuerza de cada equipo se transforma en probabilidad de victoria mediante una función tipo **"pitagórica"**:
-
-$$P(A) = \frac{p_A^{1.3}}{p_A^{1.3} + p_B^{1.3}}$$
-
-El exponente `1.3` amplifica diferencias entre equipos fuertes y débiles.
-
-### 4.2 Modelo de Poisson (goles)
+### 4.1 Modelo de Poisson (goles)
 
 En la versión más realista del simulador, los partidos no se deciden directamente, sino mediante simulación de goles.
 
