@@ -124,6 +124,9 @@ Este valor representa la fuerza global de la selección en esa simulación concr
 
 En la versión más realista del simulador, los partidos no se deciden directamente, sino mediante simulación de goles.
 
+p_A = Puntuación de la selección A
+p_B = Puntuación de la selección B
+
 Cada equipo recibe una tasa esperada de goles (λ):
 
 $$\lambda_A = base \times \frac{p_A}{p_A + p_B}$$
